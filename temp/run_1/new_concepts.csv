@@ -1,0 +1,43 @@
+label,parent_iri,freq
+Pegasus,http://www.kolitha.com/hcdt/Status,10
+PX4,http://www.sws.org/sws/PhysicalDemands,8
+UAV,http://www.kolitha.com/hcdt/sosa:Sensor,6
+Vineyard,http://www.kolitha.com/hcdt/ProcessDigitalTwin,5
+NVIDIA Isaac Sim,http://www.kolitha.com/hcdt/sosa:Sensor,5
+Data Middleware,http://www.kolitha.com/hcdt/DataVisualization,5
+DJI Phantom 4 Multispectral,http://www.kolitha.com/hcdt/DataVisualization,4
+AI system,http://www.sws.org/sws/AIAcceptance,4
+Isaac Sim,http://www.kolitha.com/hcdt/sosa:Sensor,4
+Digital Twin,http://www.kolitha.com/hcdt/DigitalTwinInstance,4
+User,http://www.kolitha.com/hcdt/User,3
+AI4Work Services Platform,http://www.sws.org/sws/AIAcceptance,3
+UC-AGR-3,http://www.kolitha.com/hcdt/NonHumanActor,3
+UC-AGR-1,http://www.sws.org/sws/AIAcceptance,3
+UC-AGR-2,http://www.sws.org/sws/AIAcceptance,3
+Figure 20,http://www.sws.org/sws/Ergonomics,3
+DJI Matrice 210 Real-Time Kinematic (RTK) V1,http://www.sws.org/sws/Ergonomics,3
+Matrice 210 RTK,http://www.kolitha.com/hcdt/RealTimeData,3
+June,http://www.sws.org/sws/Inclusivity,2
+UAVs,http://www.sws.org/sws/Ergonomics,2
+Long-Term Adaptation (LTA),http://www.kolitha.com/hcdt/PredictionAction,2
+Quinta do Crasto,http://www.kolitha.com/hcdt/Context,2
+UC-AGR-2 pilot,http://www.kolitha.com/hcdt/esco:Skill,2
+Terrain,http://www.sws.org/sws/TaskVariety,2
+Viticulture,http://www.kolitha.com/hcdt/ProcessDigitalTwin,2
+grape variety identification,http://www.sws.org/sws/SkillVariety,2
+AI4Work Agriculture Pilot,http://www.sws.org/sws/SkillVariety,2
+MAVLink,http://www.kolitha.com/hcdt/MonitoringAction,2
+GPS coordinates,http://www.sws.org/sws/HumanCentricityFactor,2
+AI4Work technologies,http://www.sws.org/sws/AIAcceptance,2
+VMT,http://www.sws.org/sws/PhysicalDemands,2
+AI4Work,http://www.sws.org/sws/AIAcceptance,2
+QGroundControl (QGC),http://www.kolitha.com/hcdt/ControlAction,2
+Probability,http://www.kolitha.com/hcdt/PredictionAction,2
+collisions,http://www.kolitha.com/hcdt/Safety,2
+QGroundControl,http://www.kolitha.com/hcdt/ControlAction,2
+AI models,http://www.kolitha.com/hcdt/DigitalModel,2
+Cost,http://www.kolitha.com/hcdt/DecisionAction,2
+Data collection,http://www.kolitha.com/hcdt/DataVisualization,2
+Spatial Information,http://www.sws.org/sws/InformationProcessingNeeds,2
+Sliding Work Sharing (SWS),http://www.sws.org/sws/WorkConditions,2
+Processing Tools,http://www.kolitha.com/hcdt/ProcessDigitalTwin,2

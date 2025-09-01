@@ -1,0 +1,128 @@
+@prefix : <http://example.org/onto#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:Situation_c099a1d9 a :ClinicalSituation .
+:2bcfab6f_AI4Work_components a <http://example.org/onto#AI4Work_components> ; rdfs:label "AI4Work components" .
+:7b81b109_individual_level_evaluat a <http://www.sws.org/sws#Resource> ; rdfs:label "individual level evaluation" .
+:0b26efb6_technical_components a <http://www.sws.org/sws#Technical> ; rdfs:label "technical components" .
+:d3e618df_human_resources a <http://www.sws.org/sws#Resource> ; rdfs:label "human resources" .
+:c3de1e37_individual_productivity a <http://www.sws.org/sws#Productivity> ; rdfs:label "individual productivity" .
+:e9ea695a_well_being a <http://example.org/onto#well_being> ; rdfs:label "well-being" .
+:83a4a8d3_stress a <http://www.sws.org/sws#Stress> ; rdfs:label "stress" .
+:c4e7f6eb_job_satisfaction a <http://www.sws.org/sws#Satisfaction> ; rdfs:label "job satisfaction" .
+:bcf8fb17_organisational_level_eva a <http://example.org/onto#organisational_level_evaluation> ; rdfs:label "organisational level evaluation" .
+:9c967e54_team_productivity a <http://www.sws.org/sws#Productivity> ; rdfs:label "team productivity" .
+:a865046f_team_collaboration a <http://example.org/onto#team_collaboration> ; rdfs:label "team collaboration" .
+:9452e505_coordination a <http://example.org/onto#coordination> ; rdfs:label "coordination" .
+:a58a5b85_agility a <http://example.org/onto#agility> ; rdfs:label "agility" .
+:28876df6_mixed_method_approach a <http://example.org/onto#mixed_method_approach> ; rdfs:label "mixed-method approach" .
+:039827fe_surveys a <http://example.org/onto#surveys> ; rdfs:label "surveys" .
+:7553aa1f_questionnaires a <http://example.org/onto#questionnaires> ; rdfs:label "questionnaires" .
+:4de4b173_wearables a <http://example.org/onto#wearables> ; rdfs:label "wearables" .
+:c88568dd_interviews a <http://example.org/onto#interviews> ; rdfs:label "interviews" .
+:39b494ef_focus_groups a <http://example.org/onto#focus_groups> ; rdfs:label "focus groups" .
+:241029cf_co_creation_activities a <http://example.org/onto#co_creation_activities> ; rdfs:label "co-creation activities" .
+:b2929188_statistical_methods a <http://example.org/onto#statistical_methods> ; rdfs:label "statistical methods" .
+:89948070_content_analysis a <http://www.sws.org/sws#Interpretability> ; rdfs:label "content analysis" .
+:62c5bf35_follow_up_co_creation_ac a <http://example.org/onto#follow_up_co_creation_activities> ; rdfs:label "follow-up co-creation activities" .
+:58665ac9_analysis_results a <http://example.org/onto#analysis_results> ; rdfs:label "analysis results" .
+:d272e8ee_pilot_applications a <http://example.org/onto#pilot_applications> ; rdfs:label "pilot applications" .
+:6d214e76_guidelines_for_AI4Work_c a <http://example.org/onto#guidelines_for_AI4Work_components_implementation> ; rdfs:label "guidelines for AI4Work components' implementation" .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :2bcfab6f_AI4Work_components .
+:Situation_c099a1d9 <http://www.sws.org/sws#confidenceAssessmentHasActor> :7b81b109_individual_level_evaluat .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :0b26efb6_technical_components .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :d3e618df_human_resources .
+:Situation_c099a1d9 <http://www.sws.org/sws#hasPerformanceDimension> :c3de1e37_individual_productivity .
+:Situation_c099a1d9 <http://www.sws.org/sws#observes> :e9ea695a_well_being .
+:Situation_c099a1d9 <http://www.sws.org/sws#observes> :83a4a8d3_stress .
+:Situation_c099a1d9 <http://www.sws.org/sws#observes> :c4e7f6eb_job_satisfaction .
+:Situation_c099a1d9 <http://www.sws.org/sws#confidenceAssessmentHasActor> :bcf8fb17_organisational_level_eva .
+:Situation_c099a1d9 <http://www.sws.org/sws#hasPerformanceDimension> :9c967e54_team_productivity .
+:Situation_c099a1d9 <http://www.sws.org/sws#hasActorStatus> :a865046f_team_collaboration .
+:Situation_c099a1d9 <http://www.sws.org/sws#hasActorStatus> :9452e505_coordination .
+:Situation_c099a1d9 <http://www.sws.org/sws#assignedTo> :a58a5b85_agility .
+:Situation_c099a1d9 <http://www.sws.org/sws#confidenceAssessmentHasActor> :28876df6_mixed_method_approach .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :039827fe_surveys .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :7553aa1f_questionnaires .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :4de4b173_wearables .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :c88568dd_interviews .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :39b494ef_focus_groups .
+:Situation_c099a1d9 <http://www.sws.org/sws#usesResource> :241029cf_co_creation_activities .
+:Situation_c099a1d9 <http://www.sws.org/sws#confidenceAssessmentHas> :b2929188_statistical_methods .
+:Situation_c099a1d9 <http://www.sws.org/sws#confidenceAssessmentHas> :89948070_content_analysis .
+:Situation_c099a1d9 <http://www.sws.org/sws#taskHasConstraint> :62c5bf35_follow_up_co_creation_ac .
+:Situation_c099a1d9 <http://www.sws.org/sws#requiresResource> :58665ac9_analysis_results .
+:Situation_c099a1d9 <http://www.sws.org/sws#monitorsActor> :d272e8ee_pilot_applications .
+:Situation_c099a1d9 <http://www.sws.org/sws#hasConstraint> :6d214e76_guidelines_for_AI4Work_c .
+:Situation_c099a1d9 rdfs:comment "Evaluation Approach and Laboratory Prototypes" .
+
+:Situation_02cfd2ae a :ClinicalSituation .
+:81756a0b_Stress a <http://www.sws.org/sws#Stress> ; rdfs:label "Stress" .
+:91269635_Qualitative_user_assessm a <http://www.sws.org/sws#Stress> ; rdfs:label "Qualitative user assessment" .
+:162ed1de_Wearable_devices a <http://www.sws.org/sws#Stress> ; rdfs:label "Wearable devices" .
+:Situation_02cfd2ae <http://www.sws.org/sws#requiresSkill> :81756a0b_Stress .
+:Situation_02cfd2ae <http://www.sws.org/sws#hasSensorValue> :91269635_Qualitative_user_assessm .
+:Situation_02cfd2ae <http://www.sws.org/sws#hasDecisionStatusDescriptor> :162ed1de_Wearable_devices .
+:Situation_02cfd2ae rdfs:comment "Stress KPIs measure the degree of mental or emotional strain resulting from demanding work circumstances." .
+
+:Situation_51a535e8 a :ClinicalSituation .
+:3d254ab6_Industry_5_0_paradigm a <http://example.org/onto#Industry_5_0_paradigm> ; rdfs:label "Industry 5.0 paradigm" .
+:e2039ff4_DTs a <http://www.sws.org/sws#DigitalTwin> ; rdfs:label "DTs" .
+:566ca2be_human_actor a <http://www.sws.org/sws#Actor> ; rdfs:label "human actor" .
+:06f69603_physical_parameters a <http://www.sws.org/sws#PhysicalErgonomics> ; rdfs:label "physical parameters" .
+:2214d1a7_data_connection a <http://example.org/onto#data_connection> ; rdfs:label "data connection" .
+:Situation_51a535e8 <http://www.sws.org/sws#hasTask> :3d254ab6_Industry_5_0_paradigm .
+:Situation_51a535e8 <http://www.sws.org/sws#assignedTo> :e2039ff4_DTs .
+:Situation_51a535e8 <http://www.sws.org/sws#actorHasPerformanceDimension> :566ca2be_human_actor .
+:Situation_51a535e8 <http://www.sws.org/sws#hasPerformanceDimension> :06f69603_physical_parameters .
+:Situation_51a535e8 <http://www.sws.org/sws#usesResource> :2214d1a7_data_connection .
+:Situation_51a535e8 rdfs:comment "(a) Create digital twins of humans in DTs, including physical parameters and data connection for monitoring the physical state." .
+
+:Situation_1e1fff20 a :ClinicalSituation .
+:a0396f98_PLC_data a <http://example.org/onto#PLC_data> ; rdfs:label "PLC data" .
+:4ab52d95_HMI_data a <http://example.org/onto#HMI_data> ; rdfs:label "HMI data" .
+:e8f6f649_Historical_database_of_e a <http://www.sws.org/sws#Performance> ; rdfs:label "Historical database of events and performance" .
+:e56fbf77_User_s_interactions a <http://example.org/onto#User_s_interactions> ; rdfs:label "User's interactions" .
+:90e473e2_Production_orders a <http://example.org/onto#Production_orders> ; rdfs:label "Production orders" .
+:5d2934d5_Real_time_values_of_moto a <http://example.org/onto#Real_time_values_of_motor_currents_or_pressure_levels> ; rdfs:label "Real-time values of motor currents or pressure levels" .
+:Situation_1e1fff20 <http://www.sws.org/sws#hasPerformanceDimension> :a0396f98_PLC_data .
+:Situation_1e1fff20 <http://www.sws.org/sws#hasPerformanceDimension> :4ab52d95_HMI_data .
+:Situation_1e1fff20 <http://www.sws.org/sws#hasPerformanceDimension> :e8f6f649_Historical_database_of_e .
+:Situation_1e1fff20 <http://www.sws.org/sws#triggersSliding> :e56fbf77_User_s_interactions .
+:Situation_1e1fff20 <http://www.sws.org/sws#triggersSliding> :90e473e2_Production_orders .
+:Situation_1e1fff20 <http://www.sws.org/sws#hasPerformanceDimension> :5d2934d5_Real_time_values_of_moto .
+:Situation_1e1fff20 rdfs:comment "Data flow between PLC, HMI, and external inputs" .
+
+:Situation_4492be79 a :ClinicalSituation .
+:e2ac18dd_Mechanical_components a <http://example.org/onto#Mechanical_components> ; rdfs:label "Mechanical components" .
+:69a56c00_Electrical_components a <http://example.org/onto#Electrical_components> ; rdfs:label "Electrical components" .
+:297cf842_Software_components a <http://example.org/onto#Software_components> ; rdfs:label "Software components" .
+:548cdd39_Machine_PLC_programmable a <http://example.org/onto#Machine_PLC_programmable_logic_controller> ; rdfs:label "Machine PLC (programmable logic controller)" .
+:7a9d3b88_Electric_actuators a <http://example.org/onto#Electric_actuators> ; rdfs:label "Electric actuators" .
+:12c1422f_Motion_drives a <http://example.org/onto#Motion_drives> ; rdfs:label "Motion drives" .
+:73ec505f_Optical_sensors a <http://example.org/onto#Optical_sensors> ; rdfs:label "Optical sensors" .
+:c91845bc_Detectors a <http://example.org/onto#Detectors> ; rdfs:label "Detectors" .
+:86a2c6b1_Laser_meters a <http://example.org/onto#Laser_meters> ; rdfs:label "Laser meters" .
+:6151c678_Cameras a <http://example.org/onto#Cameras> ; rdfs:label "Cameras" .
+:7d39b13f_Pneumatic_gripping_syste a <http://example.org/onto#Pneumatic_gripping_systems> ; rdfs:label "Pneumatic gripping systems" .
+:fe4964cb_Pressure_transducers a <http://example.org/onto#Pressure_transducers> ; rdfs:label "Pressure transducers" .
+:df15575e_Human_machine_interface_ a <http://example.org/onto#Human_machine_interface_HMI> ; rdfs:label "Human machine interface (HMI)" .
+:94b7f492_Industrial_PC a <http://example.org/onto#Industrial_PC> ; rdfs:label "Industrial PC" .
+:68ac219c_HMI_software a <http://example.org/onto#HMI_software> ; rdfs:label "HMI software" .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :e2ac18dd_Mechanical_components .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :69a56c00_Electrical_components .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :297cf842_Software_components .
+:Situation_4492be79 <http://www.sws.org/sws#triggersSliding> :548cdd39_Machine_PLC_programmable .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :7a9d3b88_Electric_actuators .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :12c1422f_Motion_drives .
+:Situation_4492be79 <http://www.sws.org/sws#observes> :73ec505f_Optical_sensors .
+:Situation_4492be79 <http://www.sws.org/sws#observes> :c91845bc_Detectors .
+:Situation_4492be79 <http://www.sws.org/sws#observes> :86a2c6b1_Laser_meters .
+:Situation_4492be79 <http://www.sws.org/sws#observes> :6151c678_Cameras .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :7d39b13f_Pneumatic_gripping_syste .
+:Situation_4492be79 <http://www.sws.org/sws#observes> :fe4964cb_Pressure_transducers .
+:Situation_4492be79 <http://www.sws.org/sws#triggersSliding> :df15575e_Human_machine_interface_ .
+:Situation_4492be79 <http://www.sws.org/sws#triggersSliding> :94b7f492_Industrial_PC .
+:Situation_4492be79 <http://www.sws.org/sws#monitorsActor> :68ac219c_HMI_software .
+:Situation_4492be79 rdfs:comment "Machine components and their control" .

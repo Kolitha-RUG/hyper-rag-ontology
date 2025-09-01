@@ -1,0 +1,62 @@
+@prefix : <http://example.org/onto#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:Situation_0a7ae195 a :ClinicalSituation .
+:59fa5e8a_Heart_rate_data a <http://example.org/onto#Heart_rate_data> ; rdfs:label "Heart rate data" .
+:f4ca9ce2_138_21_BPM a <http://example.org/onto#138_21_BPM> ; rdfs:label "138.21 BPM" .
+:5931d529_77_09_BPM a <http://example.org/onto#77_09_BPM> ; rdfs:label "77.09 BPM" .
+:Situation_0a7ae195 <http://www.kolitha.com/hcdt/hasLatencyValue> :59fa5e8a_Heart_rate_data .
+:Situation_0a7ae195 <http://www.kolitha.com/hcdt/hasLatencyValue> :f4ca9ce2_138_21_BPM .
+:Situation_0a7ae195 <http://www.kolitha.com/hcdt/hasLatencyValue> :5931d529_77_09_BPM .
+:Situation_0a7ae195 rdfs:comment "Heart Rate Monitoring" .
+
+:Situation_c3ec5b4c a :ClinicalSituation .
+:12944188_Results a <http://example.org/onto#Results> ; rdfs:label "Results" .
+:3a508ad4_Cardiovascular_response a <http://example.org/onto#Cardiovascular_response> ; rdfs:label "Cardiovascular response" .
+:91921208_Work_intensity a <http://example.org/onto#Work_intensity> ; rdfs:label "Work intensity" .
+:Situation_c3ec5b4c <http://www.kolitha.com/hcdt/observesActor> :12944188_Results .
+:Situation_c3ec5b4c <http://www.kolitha.com/hcdt/observesHumanCentricityFactor> :3a508ad4_Cardiovascular_response .
+:Situation_c3ec5b4c <http://www.kolitha.com/hcdt/hasLatency> :91921208_Work_intensity .
+:Situation_c3ec5b4c rdfs:comment "These results confirm the close relationship between cardiovascular response and work intensity" .
+
+:Situation_98e57850 a :ClinicalSituation .
+:e3e3d210_Example a <http://example.org/onto#Example> ; rdfs:label "Example" .
+:5fc828a0_Body_temperature a <http://example.org/onto#Body_temperature> ; rdfs:label "Body temperature" .
+:5418beb8_38_C a <http://example.org/onto#38_C> ; rdfs:label "38°C" .
+:4fb616d1_Heart_rate a <http://example.org/onto#Heart_rate> ; rdfs:label "Heart rate" .
+:0d8a29a0_140_BPM a <http://example.org/onto#140_BPM> ; rdfs:label "140 BPM" .
+:2dc990a6_10_minutes a <http://example.org/onto#10_minutes> ; rdfs:label "10 minutes" .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/hasVisualization> :e3e3d210_Example .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/hasLatencyValue> :5fc828a0_Body_temperature .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/hasLatency> :5418beb8_38_C .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/hasLatencyValue> :4fb616d1_Heart_rate .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/hasLatency> :0d8a29a0_140_BPM .
+:Situation_98e57850 <http://www.kolitha.com/hcdt/observesHumanCentricityFactor> :2dc990a6_10_minutes .
+:Situation_98e57850 rdfs:comment "For example, body temperature exceeding 38°C and heart rate sustained above 140 BPM for more than 10 minutes" .
+
+:Situation_440187a0 a :ClinicalSituation .
+:a7fde51e_Heart_rate_values a <http://example.org/onto#Heart_rate_values> ; rdfs:label "Heart rate values" .
+:eedb908d_77_09_BPM a <http://example.org/onto#77_09_BPM> ; rdfs:label "77.09 BPM" .
+:0469599d_138_21_BPM a <http://example.org/onto#138_21_BPM> ; rdfs:label "138.21 BPM" .
+:Situation_440187a0 <http://www.kolitha.com/hcdt/hasLatencyValue> :a7fde51e_Heart_rate_values .
+:Situation_440187a0 <http://www.kolitha.com/hcdt/hasLatency> :eedb908d_77_09_BPM .
+:Situation_440187a0 <http://www.kolitha.com/hcdt/hasLatency> :0469599d_138_21_BPM .
+:Situation_440187a0 rdfs:comment "The values ranged from a minimum of 77.09 BPM to a peak of 138.21 BPM" .
+
+:Situation_ff42e169 a :ClinicalSituation .
+:ea759720_UAV_missions a <http://example.org/onto#UAV_missions> ; rdfs:label "UAV missions" .
+:ef5e9efa_Quinta_do_Crasto a <http://example.org/onto#Quinta_do_Crasto> ; rdfs:label "Quinta do Crasto" .
+:9db4d2b5_terrain_following_logic a <http://example.org/onto#terrain_following_logic> ; rdfs:label "terrain-following logic" .
+:59edf9fe_UAV_stability a <http://example.org/onto#UAV_stability> ; rdfs:label "UAV stability" .
+:3ed0b5e5_sensor_accuracy a <http://example.org/onto#sensor_accuracy> ; rdfs:label "sensor accuracy" .
+:93844d3d_data_quality a <http://example.org/onto#data_quality> ; rdfs:label "data quality" .
+:d1a0a854_flight_paths a <http://example.org/onto#flight_paths> ; rdfs:label "flight paths" .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasAction> :ea759720_UAV_missions .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasAction> :ef5e9efa_Quinta_do_Crasto .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasLatency> :9db4d2b5_terrain_following_logic .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasVisualization> :59edf9fe_UAV_stability .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasVisualization> :3ed0b5e5_sensor_accuracy .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/hasLatency> :93844d3d_data_quality .
+:Situation_ff42e169 <http://www.kolitha.com/hcdt/interactsWith> :d1a0a854_flight_paths .
+:Situation_ff42e169 rdfs:comment "Adapting UAV missions to Quinta do Crasto's topography" .

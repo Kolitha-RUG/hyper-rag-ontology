@@ -1,0 +1,46 @@
+label,freq,best_align,parent_iri
+UAV,11,0.407678952025271,http://www.kolitha.com/hcdt/sosa:Sensor
+NVIDIA Isaac Sim,8,0.45746070585160886,http://www.kolitha.com/hcdt/sosa:Sensor
+UAVs,7,0.41636902286725885,http://www.sws.org/sws/Ergonomics
+Data Middleware,5,0.45777153085779265,http://www.kolitha.com/hcdt/DataVisualization
+UC-AGR-2,5,0.4936436567643676,http://www.sws.org/sws/AIAcceptance
+DJI Phantom 4 Multispectral,4,0.42252765445813645,http://www.kolitha.com/hcdt/DataVisualization
+UC-AGR-3,4,0.43497302279327854,http://www.kolitha.com/hcdt/NonHumanActor
+UC-AGR-1,4,0.4507620930671692,http://www.sws.org/sws/AIAcceptance
+vineyard,4,0.4517942347081311,http://www.kolitha.com/hcdt/ProcessDigitalTwin
+LTA component,3,0.3861614408700363,http://www.kolitha.com/hcdt/sosa:Sensor
+Pegasus Simulator,3,0.4140354344719335,http://www.kolitha.com/hcdt/Visualization
+PX4,3,0.42202901725585645,http://www.sws.org/sws/PhysicalDemands
+DJI Matrice 210 Real-Time Kinematic (RTK) V1,3,0.44476524754004043,http://www.sws.org/sws/Ergonomics
+Digital Twin,3,0.4583893452098663,http://www.kolitha.com/hcdt/DigitalTwinInstance
+Context Awareness,3,0.46950463152156685,http://www.kolitha.com/hcdt/Context
+Pegasus,3,0.4743746057862327,http://www.kolitha.com/hcdt/Status
+Sliding Work Sharing (SWS),3,0.5123662727516751,http://www.sws.org/sws/WorkConditions
+drone,3,0.5187897432525204,http://www.kolitha.com/hcdt/sosa:Sensor
+QGroundControl,2,0.4198778193902204,http://www.kolitha.com/hcdt/ControlAction
+Long-Term Adaptation (LTA),2,0.4199778388528263,http://www.kolitha.com/hcdt/PredictionAction
+Wind Tolerance,2,0.4223882406949997,http://www.sws.org/sws/Ergonomics
+138.21 BPM,2,0.42541096296350833,http://www.sws.org/sws/PhysicalDemands
+Quinta do Crasto,2,0.42686036376953124,http://www.kolitha.com/hcdt/Context
+MAVLink,2,0.4306377251750057,http://www.kolitha.com/hcdt/MonitoringAction
+Early Prototype,2,0.43067828163956157,http://www.kolitha.com/hcdt/DigitalModel
+77.09 BPM,2,0.4335164174316375,http://www.kolitha.com/hcdt/ssn-system:Latency
+PX4 SITL instance,2,0.4344840854814608,http://www.sws.org/sws/TaskVariety
+AI-driven scheduling logic,2,0.43789482665689367,http://www.sws.org/sws/TaskVariety
+AI4Work Agriculture Pilot,2,0.43836200951349624,http://www.sws.org/sws/SkillVariety
+Viticulture,2,0.44006452688149045,http://www.kolitha.com/hcdt/ProcessDigitalTwin
+Explainable What-If Analysis,2,0.44469857891400655,http://www.sws.org/sws/Explainability
+GPS coordinates,2,0.447170108661317,http://www.sws.org/sws/HumanCentricityFactor
+NVIDIA Omniverse-based simulation environment,2,0.4493804391225179,http://www.kolitha.com/hcdt/Visualization
+PX4 Autopilot,2,0.45006923881444066,http://www.sws.org/sws/Ergonomics
+Pegasus Simulator Extension UI,2,0.4508049483652468,http://www.sws.org/sws/EaseOfUse
+Sliding Work Sharing,2,0.45128723038426527,http://www.sws.org/sws/WorkConditions
+Isaac Sim,2,0.4538971046535232,http://www.kolitha.com/hcdt/sosa:Sensor
+VMT,2,0.4589831579986371,http://www.sws.org/sws/PhysicalDemands
+AI4Work,2,0.4645940290047572,http://www.sws.org/sws/AIAcceptance
+AI,2,0.46551013570565447,http://www.sws.org/sws/AIAcceptance
+WebODM,2,0.4685852953557218,http://www.sws.org/sws/PhysicalDemands
+Custom-built terrain and asset models,2,0.47765351487684615,http://www.kolitha.com/hcdt/DigitalModel
+Obstacle Avoidance,2,0.488633789582686,http://www.kolitha.com/hcdt/Safety
+QGroundControl (QGC),2,0.49025909134319845,http://www.kolitha.com/hcdt/ControlAction
+Runtime Monitoring,2,0.5146334483343012,http://www.kolitha.com/hcdt/MonitoringAction

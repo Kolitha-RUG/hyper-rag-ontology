@@ -1,0 +1,23 @@
+proposed,label
+http://example.org/onto#Heart_rate_data,Heart rate data
+http://example.org/onto#138_21_BPM,138.21 BPM
+http://example.org/onto#77_09_BPM,77.09 BPM
+http://example.org/onto#Results,Results
+http://example.org/onto#Cardiovascular_response,Cardiovascular response
+http://example.org/onto#Work_intensity,Work intensity
+http://example.org/onto#Example,Example
+http://example.org/onto#Body_temperature,Body temperature
+http://example.org/onto#38_C,38°C
+http://example.org/onto#Heart_rate,Heart rate
+http://example.org/onto#140_BPM,140 BPM
+http://example.org/onto#10_minutes,10 minutes
+http://example.org/onto#Heart_rate_values,Heart rate values
+http://example.org/onto#77_09_BPM,77.09 BPM
+http://example.org/onto#138_21_BPM,138.21 BPM
+http://example.org/onto#UAV_missions,UAV missions
+http://example.org/onto#Quinta_do_Crasto,Quinta do Crasto
+http://example.org/onto#terrain_following_logic,terrain-following logic
+http://example.org/onto#UAV_stability,UAV stability
+http://example.org/onto#sensor_accuracy,sensor accuracy
+http://example.org/onto#data_quality,data quality
+http://example.org/onto#flight_paths,flight paths

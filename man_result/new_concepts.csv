@@ -1,0 +1,48 @@
+label,freq,best_align,parent_iri
+SWS Management,10,0.4042539093552566,http://www.sws.org/sws#Operational
+AI4Work components,8,0.4181276059150696,http://www.sws.org/sws#HumanActor
+virtual assistant,6,0.4154312113235737,http://www.sws.org/sws#HumanActor
+AI,5,0.4631048726481061,http://www.sws.org/sws#AIAcceptance
+Component,4,0.4677593392222675,http://www.sws.org/sws#HumanActor
+Operators,4,0.5071788611591503,http://www.sws.org/sws#Operational
+fuzzy rules,3,0.41315703166855705,http://www.sws.org/sws#SoftConstraint
+HDT,3,0.4131995339285243,http://www.sws.org/sws#HardConstraint
+maintainers,3,0.41429627332194097,http://www.sws.org/sws#Status
+fuzzy logic,3,0.42737765554512774,http://www.sws.org/sws#Decision
+e-commerce sector,3,0.42765369039994705,http://www.sws.org/sws#DigitalTwin
+OEE,3,0.4595411053725651,http://www.sws.org/sws#Status
+Human-Centred Digital Twins,3,0.4619899561133566,http://www.sws.org/sws#DigitalTwin
+Robot,3,0.4741147547960282,http://www.sws.org/sws#HumanActor
+IMA E-CO Flex machine,3,0.4747109533161731,http://www.sws.org/sws#Flexibility
+AI agents,3,0.47666909535453744,http://www.sws.org/sws#Agency
+AI4WORK,3,0.4922052112785546,http://www.sws.org/sws#Task
+human resources,3,0.5091834162220811,http://www.sws.org/sws#Resource
+AI system,3,0.5107470183623465,http://www.sws.org/sws#AIAcceptance
+March ‘25,2,0.40371924388408664,http://www.sws.org/sws#Decision
+use case,2,0.40377818821351735,http://www.sws.org/sws#Decision
+June ‘25,2,0.4072568645511848,http://www.sws.org/sws#Status
+IMA Sentinel dashboard,2,0.41006446887146347,http://www.w3.org/ns/sosa#Sensor
+IMA Data Room,2,0.410241957726302,http://www.sws.org/sws#InformationProcessingNeeds
+External system,2,0.4107613105169484,http://www.sws.org/sws#Technical
+Early Prototype,2,0.4226527521540137,http://www.sws.org/sws#Operational
+SWS,2,0.4353955071080815,http://www.sws.org/sws#Status
+historical data,2,0.440299657162498,http://www.sws.org/sws#Resource
+Sliding Work Sharing Management component,2,0.44556487994115856,http://www.sws.org/sws#WorkConditions
+packing lines,2,0.4528380211194356,http://www.sws.org/sws#Task
+Energy consumption,2,0.45396234260665047,http://www.sws.org/sws#Productivity
+expertise,2,0.45667664986390333,http://data.europa.eu/esco/model#Skill
+Uncertainty estimation regarding the AI/robot,2,0.45702878330364705,http://www.sws.org/sws#ConfidenceAssessment
+machines,2,0.4571495473384857,http://www.sws.org/sws#Productivity
+machine operators,2,0.4653389504515981,http://www.sws.org/sws#Operational
+FCL,2,0.4702675335629042,http://www.sws.org/sws#Flexibility
+manufacturing,2,0.47415166840408796,http://www.sws.org/sws#Productivity
+production managers,2,0.4745503443855423,http://www.sws.org/sws#Productivity
+construction,2,0.4753922599392968,http://www.sws.org/sws#WorkConditions
+digital twins,2,0.4764830467741141,http://www.sws.org/sws#DigitalTwin
+assistance success rate,2,0.47936234418083634,http://www.sws.org/sws#Satisfaction
+plant activities,2,0.4809911368471203,http://www.sws.org/sws#Task
+AI Methods,2,0.4887298768136039,http://www.sws.org/sws#AIAcceptance
+Digital Assistant,2,0.4889673058319529,http://www.sws.org/sws#DigitalTwin
+80%,2,0.5094227830568949,http://www.sws.org/sws#Satisfaction
+operators,2,0.538850082953771,http://www.sws.org/sws#Operational
+Labour,2,0.5462545834612428,http://www.sws.org/sws#Productivity

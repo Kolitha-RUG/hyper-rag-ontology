@@ -1,0 +1,30 @@
+@prefix : <http://example.org/onto#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:10_minutes a owl:Class ; rdfs:label "10 minutes" .
+:140_BPM a owl:Class ; rdfs:label "140 BPM" .
+:38_C a owl:Class ; rdfs:label "38°C" .
+:Body_temperature a owl:Class ; rdfs:label "Body temperature" .
+:Example a owl:Class ; rdfs:label "Example" .
+:Heart_rate a owl:Class ; rdfs:label "Heart rate" .
+
+:138_21_BPM a owl:Class ; rdfs:label "138.21 BPM" .
+:77_09_BPM a owl:Class ; rdfs:label "77.09 BPM" .
+:Heart_rate_data a owl:Class ; rdfs:label "Heart rate data" .
+
+:138_21_BPM a owl:Class ; rdfs:label "138.21 BPM" .
+:77_09_BPM a owl:Class ; rdfs:label "77.09 BPM" .
+:Heart_rate_values a owl:Class ; rdfs:label "Heart rate values" .
+
+:Cardiovascular_response a owl:Class ; rdfs:label "Cardiovascular response" .
+:Results a owl:Class ; rdfs:label "Results" .
+:Work_intensity a owl:Class ; rdfs:label "Work intensity" .
+
+:Quinta_do_Crasto a owl:Class ; rdfs:label "Quinta do Crasto" .
+:UAV_missions a owl:Class ; rdfs:label "UAV missions" .
+:UAV_stability a owl:Class ; rdfs:label "UAV stability" .
+:data_quality a owl:Class ; rdfs:label "data quality" .
+:flight_paths a owl:Class ; rdfs:label "flight paths" .
+:sensor_accuracy a owl:Class ; rdfs:label "sensor accuracy" .
+:terrain_following_logic a owl:Class ; rdfs:label "terrain-following logic" .

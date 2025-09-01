@@ -1,0 +1,4195 @@
+{
+  "docs": [
+    {
+      "path": "data\\corpus\\D1.1 Pilots Requirements Analysis.md",
+      "hyperedges": [
+        {
+          "text": "Agriculture Pilot",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Agriculture pilot",
+              "type": "Project",
+              "description": "Initiates a pioneering solution for high-performance sustainable management of old vineyards.",
+              "key_score": 1.0,
+              "id": "38246dce-3eca-4740-a668-ff78ccf5f51d"
+            },
+            {
+              "name": "AI/robotics",
+              "type": "Technology",
+              "description": "Collaborates with humans in managing vineyards.",
+              "key_score": 0.8,
+              "id": "7b9573d1-1854-49fd-9819-4035159e3f67"
+            },
+            {
+              "name": "Vineyard management activities",
+              "type": "Process",
+              "description": "Includes monitoring, corrective actions, determining grape maturity, and field phenotyping.",
+              "key_score": 0.8,
+              "id": "e8aacef1-3cd6-4094-bbf4-c978b2686b19"
+            },
+            {
+              "name": "Humans",
+              "type": "Workers",
+              "description": "Collaborate with AI/robots in vineyard management tasks.",
+              "key_score": 0.7,
+              "id": "47ba775c-5b60-48b7-af4b-6e205ab6cbdf"
+            },
+            {
+              "name": "Old vineyards",
+              "type": "Location",
+              "description": "Managed sustainably by the Agriculture pilot.",
+              "key_score": 0.6,
+              "id": "29b550c9-daa0-4576-8cae-ec716162cdea"
+            },
+            {
+              "name": "QDC",
+              "type": "Location",
+              "description": "Where the Agriculture pilot is implemented.",
+              "key_score": 0.5,
+              "id": "accd587f-cdd0-46c9-a23f-92c5ff7b582e"
+            },
+            {
+              "name": "Sustainable management",
+              "type": "Strategy",
+              "description": "Applied to old vineyards by the Agriculture pilot.",
+              "key_score": 0.6,
+              "id": "a0718551-6790-4c2e-bca7-d04cc79aa343"
+            },
+            {
+              "name": "Digital Twins approach",
+              "type": "Methodology",
+              "description": "Involved in developing models for sustainable management.",
+              "key_score": 0.5,
+              "id": "f3fe2ccd-b5e4-4590-96c0-ea5bab47e2a7"
+            },
+            {
+              "name": "Stress levels",
+              "type": "Factor",
+              "description": "Integral in developing models for the Digital Twins approach.",
+              "key_score": 0.4,
+              "id": "75e29caf-93d4-4a90-b389-0ed86fccaa23"
+            },
+            {
+              "name": "Irrigation patterns",
+              "type": "Action",
+              "description": "Adjusted as part of vineyard management.",
+              "key_score": 0.5,
+              "id": "8a927ceb-1862-45c3-b50d-d4bb179cac37"
+            },
+            {
+              "name": "Nutrient supply",
+              "type": "Action",
+              "description": "Managed as part of vineyard management.",
+              "key_score": 0.4,
+              "id": "e3e64ae7-4791-4ff4-b32e-95030bbc3269"
+            },
+            {
+              "name": "Diseases and pests",
+              "type": "Issue",
+              "description": "Controlled as part of vineyard management.",
+              "key_score": 0.5,
+              "id": "a526fffc-d189-43ca-8448-b08bdb43bce2"
+            },
+            {
+              "name": "Grape maturity",
+              "type": "Factor",
+              "description": "Determined to plan optimal harvesting time.",
+              "key_score": 0.6,
+              "id": "2d584a53-6ac6-41dc-9c9e-26cb7b1d8daf"
+            },
+            {
+              "name": "Field phenotyping",
+              "type": "Process",
+              "description": "Involves analysis of vine phenotypes using digital imagery and grape leaf processing.",
+              "key_score": 0.7,
+              "id": "9ea5525a-5339-4210-accb-3d0f15456d84"
+            },
+            {
+              "name": "Grape authenticity",
+              "type": "Quality",
+              "description": "Verified through field phenotyping.",
+              "key_score": 0.6,
+              "id": "6ce397db-c52b-46fc-be4f-24f7fe792719"
+            },
+            {
+              "name": "Vineyards' cultural heritage",
+              "type": "Value",
+              "description": "Preserved through field phenotyping.",
+              "key_score": 0.5,
+              "id": "505cb51b-52a5-4824-a19c-e56655620a72"
+            },
+            {
+              "name": "Work-sharing strategies",
+              "type": "Strategy",
+              "description": "Implemented to optimize vineyard management.",
+              "key_score": 0.7,
+              "id": "fc666632-2ee2-4737-8491-18d6d2bb98a3"
+            },
+            {
+              "name": "Physical stress on workers",
+              "type": "Issue",
+              "description": "Reduced through work-sharing strategies.",
+              "key_score": 0.6,
+              "id": "f7079e39-97b6-47f8-85e6-75868cc851af"
+            },
+            {
+              "name": "Consistency of wine production",
+              "type": "Goal",
+              "description": "Enhanced through work-sharing strategies.",
+              "key_score": 0.5,
+              "id": "762a0fa7-ec99-40c6-bf5c-d8fc2f726944"
+            },
+            {
+              "name": "Mortality rate of the vineyards",
+              "type": "Issue",
+              "description": "Lowered through work-sharing strategies.",
+              "key_score": 0.4,
+              "id": "0015fe02-66e6-4fd3-8f17-240c9e962e2f"
+            }
+          ],
+          "id": "6e8345ab-32b1-4d07-b302-d0871c165260"
+        }
+      ]
+    },
+    {
+      "path": "data\\corpus\\D5.1 Pilots plan - UC3.md",
+      "hyperedges": [
+        {
+          "text": "Viticulture in Portugal faces labor shortage, particularly in Douro Demarcated Region. A solution for high-performance sustainable management of old, terraced vineyards of Quinta do Crasto is expected using advanced trustworthy digital technologies.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Viticulture",
+              "type": "activity",
+              "description": "Cultivation and harvesting of grapes for winemaking.",
+              "id": "c143fd7a-402f-428b-85e3-cb11b0944796"
+            },
+            {
+              "name": "Portugal",
+              "type": "location",
+              "description": "A country in southwestern Europe.",
+              "id": "c0301acc-ecc0-4920-8c1e-a5fd0088833f"
+            },
+            {
+              "name": "Douro Demarcated Region",
+              "type": "location",
+              "description": "The oldest demarcated wine region in the world.",
+              "id": "1060f7c5-2935-4ed2-b536-0ce40ae9ec97"
+            },
+            {
+              "name": "Quinta do Crasto",
+              "type": "location",
+              "description": "An old, terraced vineyard.",
+              "id": "a8178332-e0ea-4c01-b5ae-36bd9ed92a24"
+            },
+            {
+              "name": "Advanced trustworthy digital technologies",
+              "type": "technology",
+              "description": "Technologies that are reliable and secure for use in managing vineyards.",
+              "id": "4ed9f974-d8b6-4276-8e17-3115a3b6d46e"
+            }
+          ],
+          "id": "3970e358-fc09-409a-bf1d-cd364060cf31"
+        },
+        {
+          "text": "AI-powered cargo drone will assist with grape transport in steep-slope vineyards to improve efficiency, reduce physical strain, and optimize harvest operations.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "AI",
+              "type": "technology",
+              "description": "Artificial intelligence.",
+              "id": "a2a05117-ac67-4248-b54d-01e8a9d46707"
+            },
+            {
+              "name": "Cargo drone",
+              "type": "device",
+              "description": "An unmanned aerial vehicle designed for transporting goods.",
+              "id": "d504c507-67d1-450a-b99f-d278e237bd73"
+            },
+            {
+              "name": "Steep-slope vineyards",
+              "type": "location",
+              "description": "Vineyards located on steep slopes.",
+              "id": "4ff63eb5-f8e0-4b79-85f0-dfd774721302"
+            },
+            {
+              "name": "Grape transport",
+              "type": "activity",
+              "description": "Moving grapes from one location to another.",
+              "id": "6cbdc298-b16d-482a-9460-6ade04eba338"
+            }
+          ],
+          "id": "33408994-0c1a-4220-92b6-627160298dfc"
+        },
+        {
+          "text": "Transport of grapes in steep-slope vineyard during harvest season",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "AI-powered cargo drone",
+              "type": "Assistive Technology",
+              "description": "Assists with grape transport to reduce manual trips and alleviate physical strain.",
+              "id": "c454bcb0-dc1d-4120-9ae1-80e7c897a038"
+            },
+            {
+              "name": "IoT sensors",
+              "type": "Wearable Device",
+              "description": "Tracks worker fatigue, repetitive movements, and sun exposure for optimized task distribution.",
+              "id": "10fdf37b-9a21-4237-b92f-b6037fb179a4"
+            },
+            {
+              "name": "AI system",
+              "type": "Intelligent System",
+              "description": "Dynamically adjusts transport task allocation based on worker fatigue data, drone dispatch, harvest rates, and terrain constraints.",
+              "id": "cde1fbd5-0c5d-4c1c-a363-e21798aa8f3c"
+            },
+            {
+              "name": "Vineyard management system",
+              "type": "Software",
+              "description": "Integrates fatigue and transport efficiency data for adjusting workload distribution as needed.",
+              "id": "ae7283c8-d29f-4768-82db-7902805ef9a7"
+            },
+            {
+              "name": "Wearable sensor data",
+              "type": "Data Source",
+              "description": "Used to assess worker fatigue for informed task scheduling.",
+              "id": "626ad4a6-374f-40e7-9291-52a13e4fde87"
+            }
+          ],
+          "id": "b975197d-abaa-435d-b434-75e3ebd41aca"
+        },
+        {
+          "text": "Transport of the grapes in a steep-slope vineyard during the harvest season",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "Data collection and handling for AI/Robotics Services",
+              "type": "Technology",
+              "description": "Wearable sensors track worker fatigue levels throughout the harvest and grape transport process.",
+              "key_score": 0.8,
+              "id": "edc4b798-1da4-4020-bd79-af72168dcc01"
+            },
+            {
+              "name": "Long-Term Adaptation",
+              "type": "Technology",
+              "description": "AI models and robotic systems can be updated periodically based on new data and user feedback.",
+              "key_score": 0.7,
+              "id": "6bc07152-41e0-4125-92f2-403342ca2fa8"
+            },
+            {
+              "name": "Digital Twin",
+              "type": "System",
+              "description": "A Digital Twin of vineyard logistics integrates grape transport dynamics, worker activity, and environmental conditions.",
+              "key_score": 0.9,
+              "id": "6cc80985-e412-4e27-8f18-c7dba624e38d"
+            },
+            {
+              "name": "Context Awareness",
+              "type": "AI Model",
+              "description": "AI models can incorporate terrain conditions, weather data, and operational constraints.",
+              "key_score": 0.8,
+              "id": "fd65dd8b-b7d4-4a6c-840c-48ec51463be4"
+            },
+            {
+              "name": "Sliding Work Sharing",
+              "type": "System",
+              "description": "The system can dynamically balance transport tasks between drones and vineyard workers.",
+              "key_score": 0.7,
+              "id": "f31c6e91-e95f-4dcb-b9f2-590017f9a35a"
+            },
+            {
+              "name": "worker fatigue monitoring",
+              "type": "Task",
+              "description": "AI-assisted task allocation based on worker fatigue monitoring.",
+              "key_score": 0.8,
+              "id": "db6b6487-696e-4fd8-86e1-51070fe93b69"
+            },
+            {
+              "name": "cargo drone for vineyard transport",
+              "type": "Device",
+              "description": "Cargo drone with sufficient payload capacity and tested flight stability in vineyard terrain.",
+              "key_score": 0.7,
+              "id": "effe3e27-21ad-4143-925b-623fa132ecb5"
+            }
+          ],
+          "id": "9632712e-95e0-49b5-be3e-faa6189b2803"
+        },
+        {
+          "text": "**O3.2 Select and test cargo drone for vineyard transport [March 2025]**",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "cargo drone",
+              "type": "object",
+              "description": "A drone designed to carry goods.",
+              "key_score": 1.0,
+              "id": "da81caec-5b38-4a22-a18b-319f2f8cf645"
+            },
+            {
+              "name": "vineyard transport",
+              "type": "action",
+              "description": "The process of moving goods in a vineyard using a cargo drone.",
+              "key_score": 1.0,
+              "id": "178e9668-4e84-4a47-a9f3-ce86b4f14dbd"
+            }
+          ],
+          "id": "0c2c4b5e-7daa-4448-8f6d-dd33cb569ca0"
+        },
+        {
+          "text": "**O3.3 Develop Digital Twin prototype for transport logistics [June 2025]**",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Digital Twin",
+              "type": "object",
+              "description": "A virtual replica of a physical entity used for simulation.",
+              "key_score": 1.0,
+              "id": "d74ae041-0589-462e-996e-b77892b2922c"
+            },
+            {
+              "name": "transport logistics",
+              "type": "action",
+              "description": "The organization and planning of grape transport.",
+              "key_score": 1.0,
+              "id": "df08a504-3e37-48d1-aca8-c29289cb2465"
+            }
+          ],
+          "id": "d3c2b24a-a6a6-4be0-b143-62a452098bfc"
+        },
+        {
+          "text": "**O3.4 Implement AI-driven context awareness and Sliding Work Sharing [June 2025]**",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "AI",
+              "type": "object",
+              "description": "Artificial Intelligence.",
+              "key_score": 1.0,
+              "id": "902a79a1-9d51-436c-8f68-d90d514d6b7f"
+            },
+            {
+              "name": "context awareness",
+              "type": "property",
+              "description": "The ability of the AI to factor in environmental conditions for adaptive drone transport planning.",
+              "key_score": 1.0,
+              "id": "e07efbe9-90ac-4671-9fef-a01ede6e608f"
+            },
+            {
+              "name": "Sliding Work Sharing",
+              "type": "action",
+              "description": "A system where AI assists but workers review and refine transport task assignments.",
+              "key_score": 1.0,
+              "id": "139f76f0-5f7d-4320-bc9d-2fe7cda95834"
+            }
+          ],
+          "id": "d0b5b0ee-9511-4581-ae3a-8cd5dd9e291a"
+        }
+      ]
+    },
+    {
+      "path": "data\\corpus\\D5.8_AgriculturePilotEarlyPrototype - UC3.md",
+      "hyperedges": [
+        {
+          "text": "Viticulture Challenges in Mountainous Regions",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Viticulture",
+              "type": "Activity",
+              "description": "Cultivation of grapes for wine making",
+              "key_score": 0.9,
+              "id": "c666e7bc-5e87-4b13-8a7b-a3d3bc1620f7"
+            },
+            {
+              "name": "Douro Valley",
+              "type": "Location",
+              "description": "A region in Portugal",
+              "key_score": 0.8,
+              "id": "cc6c0c1f-91c5-4290-b051-e64f6f38901a"
+            },
+            {
+              "name": "Portugal's Douro Valley",
+              "type": "Location",
+              "description": "A specific location in Portugal",
+              "key_score": 0.7,
+              "id": "a16cac2f-e2e8-4db4-95f5-92f207a75341"
+            },
+            {
+              "name": "Steep terrain",
+              "type": "Condition",
+              "description": "A physical characteristic of the Douro Valley",
+              "key_score": 0.6,
+              "id": "819db2b3-d386-4aa0-9df9-94e63f95da96"
+            },
+            {
+              "name": "Heterogeneous grapevine varieties",
+              "type": "Condition",
+              "description": "Diverse types of grapes in the Douro Valley",
+              "key_score": 0.7,
+              "id": "84553e0e-5130-484a-8f26-b2d9b381a7df"
+            },
+            {
+              "name": "Manual labour",
+              "type": "Method",
+              "description": "Physical work done by humans",
+              "key_score": 0.8,
+              "id": "b252c90f-49dc-484f-a624-5b7f3733173b"
+            },
+            {
+              "name": "Vineyard operations",
+              "type": "Activity",
+              "description": "Tasks related to managing a vineyard",
+              "key_score": 0.9,
+              "id": "644664b0-6125-4e41-800b-6a8b7dbea464"
+            },
+            {
+              "name": "Grape identification",
+              "type": "Activity",
+              "description": "Identifying types of grapes",
+              "key_score": 0.7,
+              "id": "0c2ef0bf-6eb5-4c14-8af8-fdd2f146eac9"
+            },
+            {
+              "name": "Harvest logistics",
+              "type": "Activity",
+              "description": "Organizing the process of harvesting grapes",
+              "key_score": 0.8,
+              "id": "73cb8c99-78a9-487f-9d47-e3a6f66344c2"
+            },
+            {
+              "name": "Labour shortages",
+              "type": "Condition",
+              "description": "Insufficient workforce in the Douro Valley",
+              "key_score": 0.6,
+              "id": "1e10d8af-17a8-4d9c-a983-a488f2b2a854"
+            },
+            {
+              "name": "Environmental variability",
+              "type": "Condition",
+              "description": "Changes in weather and climate in the Douro Valley",
+              "key_score": 0.7,
+              "id": "ea0b76a9-deed-49fb-8f76-cb469754c6a8"
+            },
+            {
+              "name": "Vinha Maria Teresa (VMT)",
+              "type": "Location",
+              "description": "A specific vineyard in the Douro Valley",
+              "key_score": 0.9,
+              "id": "c57ed829-5c45-44db-b9b8-8f0538caeded"
+            },
+            {
+              "name": "Quinta do Crasto S.A.",
+              "type": "Organization",
+              "description": "An estate or company owning the VMT vineyard",
+              "key_score": 0.8,
+              "id": "afb49ed7-a7a1-4b23-a5ff-7e79f03db384"
+            },
+            {
+              "name": "4.7-hectare",
+              "type": "Size",
+              "description": "The size of the VMT vineyard",
+              "key_score": 0.6,
+              "id": "fdffb16f-97e0-44c1-b83d-ad6d4533cc09"
+            },
+            {
+              "name": "Eastern slope",
+              "type": "Location",
+              "description": "The location of the VMT vineyard",
+              "key_score": 0.7,
+              "id": "2e56f8c0-1896-49e1-bf87-13c26a120edf"
+            },
+            {
+              "name": "Douro River",
+              "type": "NaturalFeature",
+              "description": "A river near the VMT vineyard",
+              "key_score": 0.8,
+              "id": "0ce8a3cc-277f-4c6d-a816-f31944530f7a"
+            },
+            {
+              "name": "Centenary vineyard",
+              "type": "VineyardType",
+              "description": "A vineyard that has been in existence for over a century",
+              "key_score": 0.9,
+              "id": "1d46eadb-8b02-44d8-991e-6fba473a8ef4"
+            },
+            {
+              "name": "Stochastic mix of Vitis vinifera L. varieties",
+              "type": "GrapeVariety",
+              "description": "A diverse mix of grape species in the VMT vineyard",
+              "key_score": 0.7,
+              "id": "1b38ab49-7458-4d5f-96b2-e7ab3a80c636"
+            },
+            {
+              "name": "Short pruning",
+              "type": "PruningMethod",
+              "description": "A method of pruning grapevines",
+              "key_score": 0.8,
+              "id": "9952f6d3-fa07-427e-9fcc-14f3c7923f8e"
+            },
+            {
+              "name": "Dense planting",
+              "type": "PlantingMethod",
+              "description": "A method of planting grapevines closely together",
+              "key_score": 0.7,
+              "id": "1b1cb20d-3a49-4a31-8489-11327935679f"
+            },
+            {
+              "name": "Schist posts",
+              "type": "SupportStructure",
+              "description": "Posts made of schist used to support grapevines",
+              "key_score": 0.6,
+              "id": "6a68987c-a43c-450f-88ca-88ca8f5099fe"
+            },
+            {
+              "name": "Horizontal wire trellises",
+              "type": "TrellisType",
+              "description": "A type of trellis with horizontal wires",
+              "key_score": 0.8,
+              "id": "8125bfbc-eb0b-4f22-aff9-e8428d593b10"
+            },
+            {
+              "name": "Tailored, AI-driven approaches",
+              "type": "Solution",
+              "description": "Customized AI solutions for the VMT vineyard",
+              "key_score": 0.9,
+              "id": "bd83a3c4-d1ec-4c6d-8eb1-45aca7f38051"
+            },
+            {
+              "name": "Sustainable automation",
+              "type": "Goal",
+              "description": "Automating tasks in a way that is environmentally friendly",
+              "key_score": 0.8,
+              "id": "1ead0a89-af52-4a60-9fde-062c3ce5967b"
+            },
+            {
+              "name": "Traditional practices",
+              "type": "Practice",
+              "description": "Customary methods used in the VMT vineyard",
+              "key_score": 0.7,
+              "id": "968d5173-0a8f-48d2-b874-7e1aa9b87d08"
+            },
+            {
+              "name": "Site-specific constraints",
+              "type": "Constraint",
+              "description": "Factors unique to the VMT vineyard",
+              "key_score": 0.9,
+              "id": "1ea48ab1-9859-4af8-889d-07357c461fac"
+            }
+          ],
+          "id": "634d10fc-e940-49a5-b1de-4e68e935c5cb"
+        },
+        {
+          "text": "Phenological Considerations in Data Acquisition",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Data acquisition",
+              "type": "Process",
+              "description": "The act of collecting data",
+              "key_score": 0.8,
+              "id": "86d9aa98-c9e3-4d22-92d0-ff5c7c481040"
+            },
+            {
+              "name": "Phenological calendar",
+              "type": "Calendar",
+              "description": "A calendar based on the stages of plant growth",
+              "key_score": 0.7,
+              "id": "8d5afe11-31ce-4c8a-b061-d568bda64c49"
+            },
+            {
+              "name": "Berry set",
+              "type": "Stage",
+              "description": "A stage in the lifecycle of grapevines",
+              "key_score": 0.9,
+              "id": "73a1967e-f892-4ac9-bf5a-d9a321809756"
+            },
+            {
+              "name": "Observation and analysis of mature leaves",
+              "type": "Activity",
+              "description": "Examining and analyzing mature leaves",
+              "key_score": 0.8,
+              "id": "6b88ec17-a80b-4751-8656-09897755db53"
+            },
+            {
+              "name": "International Organisation of Vine and Wine (OIV)",
+              "type": "Organization",
+              "description": "An international organization that provides recommendations for viticulture",
+              "key_score": 0.7,
+              "id": "1a4afbd1-1424-4498-9aad-275e8619c36f"
+            },
+            {
+              "name": "June",
+              "type": "Month",
+              "description": "The sixth month of the year",
+              "key_score": 0.6,
+              "id": "419eaea9-3322-4607-b510-de05786415eb"
+            },
+            {
+              "name": "Veraison",
+              "type": "Stage",
+              "description": "A stage in the lifecycle of grapevines when grapes begin to ripen",
+              "key_score": 0.9,
+              "id": "1df9a4f4-a02d-4c8d-a60b-d5fca3ac1d38"
+            },
+            {
+              "name": "Stable weather",
+              "type": "Condition",
+              "description": "Consistent atmospheric conditions",
+              "key_score": 0.7,
+              "id": "5ce03eac-c680-447e-96a4-09616f92f30d"
+            },
+            {
+              "name": "Optimal lighting",
+              "type": "Condition",
+              "description": "Favorable illumination for data collection",
+              "key_score": 0.8,
+              "id": "5d86f7ee-b7af-441d-aeeb-fdfef89c4baf"
+            },
+            {
+              "name": "Mountainous areas",
+              "type": "Location",
+              "description": "Regions with steep terrain",
+              "key_score": 0.6,
+              "id": "46fe0775-89fc-4d8c-ac09-25316d4dbc2b"
+            },
+            {
+              "name": "Microclimates",
+              "type": "Climate",
+              "description": "Localized weather patterns",
+              "key_score": 0.7,
+              "id": "77b40f20-387b-420b-a31f-7da56e3067c8"
+            },
+            {
+              "name": "Vine development",
+              "type": "Growth",
+              "description": "The growth and maturation of grapevines",
+              "key_score": 0.8,
+              "id": "0e292437-adad-4be7-ab59-adf82bff4433"
+            },
+            {
+              "name": "Data quality",
+              "type": "Quality",
+              "description": "The accuracy and reliability of collected data",
+              "key_score": 0.9,
+              "id": "af7948e1-50f9-4083-b6e7-03ec60cd292c"
+            }
+          ],
+          "id": "fa0edb7c-d604-487a-bf1c-1e4d2a0383bc"
+        },
+        {
+          "text": "Data collection for grapevine analysis scheduled in June to capture phenological window.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Data collection",
+              "type": "activity",
+              "description": "The act of gathering data related to grapevines.",
+              "id": "8d4cd5b6-1e41-4e5d-9110-fefb99d9c9b1"
+            },
+            {
+              "name": "Phenological window",
+              "type": "time_period",
+              "description": "A specific phase in the growth cycle of grapevines, between berry set and veraison.",
+              "id": "890200bd-590b-4ce6-af48-28a434a9c1e3"
+            }
+          ],
+          "id": "6a32b718-c8df-4d74-904c-08399f36b99c"
+        },
+        {
+          "text": "Morphological characterisation of grapevines using OIV descriptors at specific phenological stages.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Morphological characterisation",
+              "type": "analysis_method",
+              "description": "The examination and measurement of physical features of grapevines.",
+              "id": "748c50e0-b2b8-437a-abe4-094f8844d139"
+            },
+            {
+              "name": "OIV descriptors",
+              "type": "standard",
+              "description": "Descriptive terms and criteria established by the International Organisation of Vine and Wine for grapevine analysis.",
+              "id": "45302fcb-765d-4302-8860-859e25c9a3ae"
+            }
+          ],
+          "id": "990ec151-6001-4971-8a0e-c326a745f265"
+        },
+        {
+          "text": "The Agriculture Pilot focuses on three main use cases: UC-AGR-1, UC-AGR-2, and UC-AGR-3.",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "Agriculture Pilot",
+              "type": "project",
+              "description": "An initiative that introduces AI and robotics into vineyard workflows.",
+              "id": "27d12c99-1d61-41b7-92b9-b27c96f91510"
+            },
+            {
+              "name": "UC-AGR-1",
+              "type": "use_case",
+              "description": "Identification of grape varieties using image-based AI.",
+              "id": "f438dd3e-610c-4aaf-a1d5-25a2e0d63a50"
+            },
+            {
+              "name": "UC-AGR-2",
+              "type": "use_case",
+              "description": "Monitoring of vineyard conditions through UAVs and environmental sensors.",
+              "id": "2b70b350-eb85-4d1e-808b-32fc54febee9"
+            },
+            {
+              "name": "UC-AGR-3",
+              "type": "use_case",
+              "description": "Support for grape transport and fatigue-aware task distribution during harvest.",
+              "id": "f7911c54-575b-46d5-9a5e-11d6bbb86676"
+            }
+          ],
+          "id": "146f6093-1576-4032-96fe-b03e5584114e"
+        },
+        {
+          "text": "Use of autonomous cargo drones and fatigue-aware task planning in steep-slope vineyards",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "autonomous cargo drones",
+              "type": "technology",
+              "description": "Drones designed to transport grape boxes in steep-slope vineyards.",
+              "key_score": 0.8,
+              "id": "4ae32081-0eea-40cf-b2c4-2edb58831693"
+            },
+            {
+              "name": "fatigue-aware task planning",
+              "type": "AI_logic",
+              "description": "AI logic that considers worker fatigue during task allocation.",
+              "key_score": 0.7,
+              "id": "791827bd-2e3a-4c0b-893f-dea3cf7bd257"
+            }
+          ],
+          "id": "35cf2bfe-222b-4ccd-a129-5a64318752b7"
+        },
+        {
+          "text": "Wearable IoT sensors for tracking fatigue indicators",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "wearable IoT sensors",
+              "type": "hardware",
+              "description": "Sensors worn by workers to monitor fatigue indicators.",
+              "key_score": 0.6,
+              "id": "a3782d7a-bc29-4dbe-9cd2-551ad5de62a2"
+            }
+          ],
+          "id": "f3c2d89a-dbe2-4f53-b089-6102975d73c2"
+        },
+        {
+          "text": "AI-driven scheduling logic",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "AI-driven scheduling logic",
+              "type": "AI_logic",
+              "description": "AI logic that schedules tasks based on collected physiological data.",
+              "key_score": 0.5,
+              "id": "78076854-7b3a-4f6e-9c19-5d14a92267b7"
+            }
+          ],
+          "id": "0604b915-946a-411e-b04b-0a011b270b88"
+        },
+        {
+          "text": "Runtime Monitoring, Explainable What-If Analysis, and Sliding Work Sharing (SWS)",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "Runtime Monitoring",
+              "type": "AI_tool",
+              "description": "Tool for monitoring AI performance during runtime.",
+              "key_score": 0.2,
+              "id": "cfcda781-545e-46d4-ac27-46bf90487611"
+            },
+            {
+              "name": "Explainable What-If Analysis",
+              "type": "AI_tool",
+              "description": "Tool that explains the 'what-if' scenarios of AI decisions.",
+              "key_score": 0.3,
+              "id": "1ab7402e-0537-4db8-a89f-abf7bf269d3f"
+            },
+            {
+              "name": "Sliding Work Sharing (SWS)",
+              "type": "AI_tool",
+              "description": "Tool for adaptive workload distribution among workers and drones.",
+              "key_score": 0.4,
+              "id": "c0737af1-0169-4cda-b4d6-51b841ca4de3"
+            }
+          ],
+          "id": "e040afba-5efa-42cb-aaa5-814908263916"
+        },
+        {
+          "text": "Early Prototype incorporates: Human-aware Task Planning, Context Awareness, Digital Twin",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Early Prototype",
+              "type": "system",
+              "description": "AI-driven system for drone deployment",
+              "key_score": 0.9,
+              "id": "ef03ba4d-3bb3-43a6-9e18-4edb8deb787f"
+            },
+            {
+              "name": "Human-aware Task Planning",
+              "type": "component",
+              "description": "Guides initial design of scheduling mechanisms for drone deployment, accounting for worker fatigue and terrain constraints",
+              "key_score": 0.8,
+              "id": "e522521f-73b5-4c1b-b845-3a4837e92a35"
+            },
+            {
+              "name": "Context Awareness",
+              "type": "component",
+              "description": "Models environmental conditions and operational factors relevant to drone navigation",
+              "key_score": 0.7,
+              "id": "2b464c5a-9721-49ab-8135-0c77cfa362be"
+            },
+            {
+              "name": "Digital Twin",
+              "type": "component",
+              "description": "Captures spatial, physiological, and operational data for scenario planning and future integration with vineyard logistics systems",
+              "key_score": 0.8,
+              "id": "26193da1-f167-4495-a57d-194c8e3abf4e"
+            }
+          ],
+          "id": "9545223b-77ce-4bd8-b926-6faa397cb784"
+        },
+        {
+          "text": "Early Prototype does not yet integrate: Collected physiological data with AI-driven scheduling logic, Runtime Monitoring, Explainable What-If Analysis, Sliding Work Sharing (SWS), full AI pipeline for task prioritization and drone dispatch",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Early Prototype",
+              "type": "system",
+              "description": "AI-driven system for drone deployment",
+              "key_score": 0.9,
+              "id": "449aa19a-61f3-460d-942d-ba3255c0dff7"
+            },
+            {
+              "name": "Collected physiological data",
+              "type": "data",
+              "description": "Data used to inform future AI-driven scheduling logic",
+              "key_score": 0.6,
+              "id": "0ce03ec6-c803-47df-ab87-93761f53e01f"
+            },
+            {
+              "name": "AI-driven scheduling logic",
+              "type": "component",
+              "description": "Component that uses collected physiological data for drone deployment scheduling",
+              "key_score": 0.6,
+              "id": "2b996f67-dd85-450f-97e8-1767ca035933"
+            },
+            {
+              "name": "Runtime Monitoring",
+              "type": "component",
+              "description": "Not implemented in the current phase",
+              "key_score": 0.5,
+              "id": "5a9f2933-7f3a-4156-9180-eafaf297ab6f"
+            },
+            {
+              "name": "Explainable What-If Analysis",
+              "type": "component",
+              "description": "Not implemented in the current phase",
+              "key_score": 0.5,
+              "id": "1fb1f727-4676-4689-8cf1-b6ae24bef740"
+            },
+            {
+              "name": "Sliding Work Sharing (SWS)",
+              "type": "component",
+              "description": "Not implemented in the current phase",
+              "key_score": 0.5,
+              "id": "cf553db6-0d57-423c-be55-c437d91b5904"
+            },
+            {
+              "name": "Full AI pipeline for task prioritization and drone dispatch",
+              "type": "system",
+              "description": "Remains under development",
+              "key_score": 0.6,
+              "id": "831caa7e-207b-46c7-adc8-2002704ca0de"
+            }
+          ],
+          "id": "27bcc7bd-cf25-4875-acc8-4c6a466882a4"
+        },
+        {
+          "text": "Human-aware Task Planning",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Physiological Data",
+              "type": "Data",
+              "description": "Heart rate, ECG signals, body temperature, GPS coordinates collected via wearable IoT sensors.",
+              "key_score": 0.8,
+              "id": "1c5657e5-dda2-4412-a8f8-027e537c9891"
+            },
+            {
+              "name": "Wearable Sensors",
+              "type": "Device",
+              "description": "Chest-mounted and arm-mounted devices with heart rate, ECG, body temperature, GPS, accelerometer, gyroscope.",
+              "key_score": 0.9,
+              "id": "ef86e584-71e7-4b4e-832f-13e7c0d4da00"
+            },
+            {
+              "name": "GPS Tracking",
+              "type": "Technology",
+              "description": "Real-time location tracking of workers during vineyard activities for geofencing, dynamic task coordination, and emergency response.",
+              "key_score": 0.7,
+              "id": "377a4ef4-d177-472c-a2b0-527b8285a6dd"
+            },
+            {
+              "name": "Worker's Physiological State",
+              "type": "State",
+              "description": "Monitoring of worker's physiological state during field operations using wearable sensors.",
+              "key_score": 0.6,
+              "id": "b7c3e891-aeba-42e0-96b9-86423dd85ade"
+            }
+          ],
+          "id": "41f2661e-453b-4f2f-abb8-e3a8d3b7f025"
+        },
+        {
+          "text": "GPS Tracking during Vineyard Activities",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "GPS track",
+              "type": "artifact",
+              "description": "A continuous and real-time recorded path of a vineyard worker's movement.",
+              "key_score": 0.9,
+              "id": "cbb5d102-af84-4ef1-b195-b41f5d399c62"
+            },
+            {
+              "name": "Vineyard activities",
+              "type": "activity",
+              "description": "Work performed in a vineyard.",
+              "key_score": 0.8,
+              "id": "e3b6e36d-19c1-464b-a21e-8b8a29781cb4"
+            },
+            {
+              "name": "1.85 km",
+              "type": "measurement",
+              "description": "Total distance covered during the GPS track.",
+              "key_score": 0.7,
+              "id": "68272bd1-adc2-4180-a2af-cb2d101f5747"
+            },
+            {
+              "name": "30 meters",
+              "type": "measurement",
+              "description": "Altitude variation during the GPS track.",
+              "key_score": 0.6,
+              "id": "3607c76e-49f8-4b7d-b53c-a52494ec9636"
+            }
+          ],
+          "id": "ed025032-c09a-46db-a5eb-9de9c18ab401"
+        },
+        {
+          "text": "Body Temperature Monitoring",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Body temperature readings",
+              "type": "measurement",
+              "description": "Temperature measurements taken during a session.",
+              "key_score": 0.9,
+              "id": "fcab7ec3-082b-4035-a44a-bfd6a85aef39"
+            },
+            {
+              "name": "8:31 AM to 10:23 AM",
+              "type": "timeframe",
+              "description": "The time period for which body temperature was monitored.",
+              "key_score": 0.8,
+              "id": "b88acd26-ed12-40ee-a68e-528bfd62b160"
+            },
+            {
+              "name": "37.24°C",
+              "type": "measurement",
+              "description": "Maximum body temperature recorded during the session.",
+              "key_score": 0.7,
+              "id": "d76cf0e1-4b16-4850-b679-13c16af43219"
+            },
+            {
+              "name": "36.15°C",
+              "type": "measurement",
+              "description": "Minimum body temperature recorded during the session.",
+              "key_score": 0.6,
+              "id": "43769085-e636-49c6-8de7-5030e5113ee2"
+            }
+          ],
+          "id": "74d79245-3fd2-4446-87b5-332d529f85b5"
+        },
+        {
+          "text": "Heart Rate Monitoring",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Heart rate data",
+              "type": "measurement",
+              "description": "Heart rate measurements taken during a session.",
+              "key_score": 0.8,
+              "id": "59fa5e8a-c8b2-46c4-af32-148d615cb765"
+            },
+            {
+              "name": "138.21 BPM",
+              "type": "measurement",
+              "description": "Peak heart rate recorded during the session.",
+              "key_score": 0.7,
+              "id": "f4ca9ce2-1990-4e3f-8e46-75854e4e6826"
+            },
+            {
+              "name": "77.09 BPM",
+              "type": "measurement",
+              "description": "Minimum heart rate recorded during the session.",
+              "key_score": 0.6,
+              "id": "5931d529-207e-46bd-bbe7-1e83a08d4ece"
+            }
+          ],
+          "id": "0a7ae195-b644-4d26-ba11-cb9a716ef5e9"
+        },
+        {
+          "text": "Heart rate measurements recorded during vineyard fieldwork on 2025-06-27",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Heart rate measurements",
+              "type": "Event",
+              "description": "Measurements of heart rates during vineyard fieldwork on a specific date.",
+              "key_score": 1.0,
+              "id": "e564f54d-abee-4694-b37f-0b0415d12269"
+            },
+            {
+              "name": "Vineyard fieldwork",
+              "type": "Location-Time",
+              "description": "Fieldwork activities in a vineyard on a specific date.",
+              "key_score": 1.0,
+              "id": "142af501-a063-468f-9cac-5a9f7d405294"
+            },
+            {
+              "name": "2025-06-27",
+              "type": "Date",
+              "description": "A specific date when the heart rate measurements were recorded during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "55f4ed99-7565-4e7d-9662-2a47a2365104"
+            }
+          ],
+          "id": "9713ed3c-c8fe-4609-9950-6880111a655c"
+        },
+        {
+          "text": "The values ranged from a minimum of 77.09 BPM to a peak of 138.21 BPM",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Heart rate values",
+              "type": "Measurement",
+              "description": "The recorded heart rate values during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "a7fde51e-3ee0-4b05-b026-36e475fae78c"
+            },
+            {
+              "name": "77.09 BPM",
+              "type": "Value",
+              "description": "The minimum heart rate value recorded during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "eedb908d-f146-4569-b793-d83ba19e2ef5"
+            },
+            {
+              "name": "138.21 BPM",
+              "type": "Value",
+              "description": "The maximum heart rate value recorded during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "0469599d-bcf4-46bb-acd0-52d01efc61e1"
+            }
+          ],
+          "id": "440187a0-24ae-4719-b347-703989db6196"
+        },
+        {
+          "text": "These results confirm the close relationship between cardiovascular response and work intensity",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Results",
+              "type": "Observation",
+              "description": "The observed outcomes of heart rate measurements during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "12944188-d9de-485a-9814-8c28606df040"
+            },
+            {
+              "name": "Cardiovascular response",
+              "type": "Physiological-Response",
+              "description": "The body's cardiovascular reaction to the work intensity.",
+              "key_score": 1.0,
+              "id": "3a508ad4-c2bf-461b-bd0c-69b0069200fe"
+            },
+            {
+              "name": "Work intensity",
+              "type": "Activity-Level",
+              "description": "The level of physical effort required during vineyard fieldwork.",
+              "key_score": 1.0,
+              "id": "91921208-36e0-4904-81a4-e6b876951b3f"
+            }
+          ],
+          "id": "c3ec5b4c-202b-4dfa-8833-925ee3fa1340"
+        },
+        {
+          "text": "A set of fatigue thresholds is being defined based on literature and preliminary data",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Fatigue thresholds",
+              "type": "Criterion",
+              "description": "Thresholds used to determine fatigue levels based on various factors.",
+              "key_score": 1.0,
+              "id": "6d802fa6-818a-4bf7-ba5d-2f303e2cb96c"
+            },
+            {
+              "name": "Literature",
+              "type": "Source",
+              "description": "Scientific resources consulted for defining the fatigue thresholds.",
+              "key_score": 1.0,
+              "id": "02832d1b-f7eb-457c-ab94-d083e0b67c4c"
+            },
+            {
+              "name": "Preliminary data",
+              "type": "Data-Set",
+              "description": "Initial data collected to establish the fatigue thresholds.",
+              "key_score": 1.0,
+              "id": "6ddc9999-eab8-4fa0-a308-de9b2fbe57aa"
+            }
+          ],
+          "id": "15c8727d-541d-490b-89e3-ce89731c84be"
+        },
+        {
+          "text": "For example, body temperature exceeding 38°C and heart rate sustained above 140 BPM for more than 10 minutes",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "Example",
+              "type": "Illustration",
+              "description": "A specific example of fatigue threshold criteria.",
+              "key_score": 1.0,
+              "id": "e3e3d210-b939-4420-8a40-a8438ee250cf"
+            },
+            {
+              "name": "Body temperature",
+              "type": "Physiological-Measurement",
+              "description": "The body's core temperature.",
+              "key_score": 1.0,
+              "id": "5fc828a0-eb40-4936-8d9c-645b8bf4c951"
+            },
+            {
+              "name": "38°C",
+              "type": "Value",
+              "description": "A specific threshold value for body temperature.",
+              "key_score": 1.0,
+              "id": "5418beb8-05d0-4508-8b08-1353d5f69993"
+            },
+            {
+              "name": "Heart rate",
+              "type": "Physiological-Measurement",
+              "description": "The heart's beating rate.",
+              "key_score": 1.0,
+              "id": "4fb616d1-0739-42d7-8534-4c2f4a8d7e2e"
+            },
+            {
+              "name": "140 BPM",
+              "type": "Value",
+              "description": "A specific threshold value for heart rate.",
+              "key_score": 1.0,
+              "id": "0d8a29a0-8550-4f9a-957a-1f975a15986d"
+            },
+            {
+              "name": "10 minutes",
+              "type": "Duration",
+              "description": "The duration of time the specified conditions must be sustained to trigger fatigue.",
+              "key_score": 1.0,
+              "id": "2dc990a6-29cd-4b9f-8c51-c73ddb735ca1"
+            }
+          ],
+          "id": "98e57850-2ac8-4402-add0-70ca58a1c81c"
+        },
+        {
+          "text": "The agricultural pilot demonstrates tasks in a vineyard scenario.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "agricultural pilot",
+              "type": "event",
+              "description": "demonstrates tasks",
+              "id": "076ae113-1252-4768-be83-fb24c05919a5"
+            },
+            {
+              "name": "vineyard",
+              "type": "location",
+              "description": "where different varieties of vines grow",
+              "id": "9d334eb6-0ba8-42ea-b751-58562edf0058"
+            },
+            {
+              "name": "task",
+              "type": "activity",
+              "description": "harvesting, vineyard monitoring activities, grapevine identification",
+              "id": "92decab9-55bc-4b82-a371-557a25cd71af"
+            },
+            {
+              "name": "agent",
+              "type": "actor",
+              "description": "human workers and robots",
+              "id": "f8ab3520-5a76-43d8-a7cb-8f6bb876b264"
+            },
+            {
+              "name": "probability of succeeding",
+              "type": "property",
+              "description": "different for each agent",
+              "id": "ae6a0c37-7c2b-40e5-b01e-4e6219f8d658"
+            },
+            {
+              "name": "cost",
+              "type": "property",
+              "description": "associated with each agent's actions",
+              "id": "2e2a92c8-b374-4753-9ae6-33f3a344575d"
+            },
+            {
+              "name": "maximum number of retries",
+              "type": "limit",
+              "description": "for agents before considered a failure",
+              "id": "9e4435b8-ef6d-44ca-bae7-8ac73276831c"
+            },
+            {
+              "name": "minimum probability of succeeding",
+              "type": "constraint",
+              "description": "defined by the user",
+              "id": "f244d0d6-905f-41cc-b7a6-29bc77770ee7"
+            },
+            {
+              "name": "threshold to assign tasks to agents",
+              "type": "constraint",
+              "description": "defined by the user",
+              "id": "0e5e4fda-4692-461f-a049-8b8a145685ca"
+            },
+            {
+              "name": "PDDL",
+              "type": "language",
+              "description": "used for encoding a planning problem",
+              "id": "e6795ff0-5a0a-4493-9148-db9358a54a2c"
+            },
+            {
+              "name": "deterministic plan",
+              "type": "output",
+              "description": "generated using off-the-shelf PDDL planner solvers",
+              "id": "de7a8a8e-17ef-47e3-89ff-e0b6b357e40f"
+            },
+            {
+              "name": "optimisation problem",
+              "type": "problem",
+              "description": "formulated to determine the most effective combination of task retries",
+              "id": "62502f38-d017-45cb-9508-7f44626f7a24"
+            },
+            {
+              "name": "EvoChecker language",
+              "type": "language",
+              "description": "comprising a .pm file and a .props file",
+              "id": "08a7a75c-25c6-4a0f-a1e3-722827727a43"
+            },
+            {
+              "name": "Pareto-optimal retry configurations",
+              "type": "output",
+              "description": "per task",
+              "id": "f8aca1bc-0caf-40a8-aecd-2f196d5945c0"
+            }
+          ],
+          "id": "ee2ebe91-d843-4090-9a7d-f992805ea694"
+        },
+        {
+          "text": "An adaptation process is triggered within the LTA component when one of four changes occurs: C1 - a task failure, C2 - a change in minimum success probability, C3 - a change in minimum assignment probability, or C4 - a change in an agent's probability to complete a task.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "LTA component",
+              "type": "AI component",
+              "description": "A component that generates and adapts plans using PDDL planner solvers and EvoChecker language.",
+              "id": "e5473bca-ad2d-4e0d-b416-4bab748710d9"
+            },
+            {
+              "name": "adaptation trigger",
+              "type": "event",
+              "description": "An event that initiates the adaptation process in the LTA component.",
+              "id": "bd667bef-15a8-4674-888f-b406c6c691c5"
+            },
+            {
+              "name": "C1",
+              "type": "change type",
+              "description": "A change representing a task failure.",
+              "id": "a1886247-fc3a-4189-9258-9ac1f8541562"
+            },
+            {
+              "name": "C2",
+              "type": "change type",
+              "description": "A change representing a change in minimum success probability.",
+              "id": "c8d95375-7082-4015-99f2-c777e183be79"
+            },
+            {
+              "name": "C3",
+              "type": "change type",
+              "description": "A change representing a change in minimum assignment probability.",
+              "id": "4c57eff8-7345-4e00-b38c-c074bec1b203"
+            },
+            {
+              "name": "C4",
+              "type": "change type",
+              "description": "A change representing a change in an agent's probability to complete a task.",
+              "id": "de96c42b-ceeb-41db-b704-7126970b6792"
+            }
+          ],
+          "id": "de1881bd-6e61-4067-ac0b-0ad89900f70a"
+        },
+        {
+          "text": "The LTA component generates a verified plan and different retry-augmented plans with their respective quality of service values.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "LTA component",
+              "type": "AI component",
+              "description": "A component that generates and adapts plans using PDDL planner solvers and EvoChecker language.",
+              "id": "4a03b1a5-7b65-49ad-8683-22b82a8fb5f2"
+            },
+            {
+              "name": "verified plan",
+              "type": "plan",
+              "description": "A plan generated by the LTA component that has been verified for correctness.",
+              "id": "ab5ec480-c739-4eab-a95e-1b645f9aa12e"
+            },
+            {
+              "name": "retry-augmented plans",
+              "type": "plans",
+              "description": "Plans with retry configurations added to improve success probability and minimize costs.",
+              "id": "c23c5335-0619-4458-9416-8828f0c4c656"
+            },
+            {
+              "name": "quality of service values",
+              "type": "plan metrics",
+              "description": "Metrics used to evaluate the efficiency and effectiveness of generated plans.",
+              "id": "c9c97121-8a68-4529-bc26-748ab93cb659"
+            }
+          ],
+          "id": "af7a9fbe-c0c8-47f0-8688-3acca3a267e8"
+        },
+        {
+          "text": "The LTA component's output is a unified JSON file containing the plan as a sequence of actions, and a Pareto optimal list of solutions.",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "LTA component",
+              "type": "AI component",
+              "description": "A component that generates and adapts plans using PDDL planner solvers and EvoChecker language.",
+              "id": "e808c488-1259-4822-9061-f408f7dba22a"
+            },
+            {
+              "name": "output file",
+              "type": "file",
+              "description": "The JSON output generated by the LTA component.",
+              "id": "fbebacc0-4d7c-49a4-8080-2acc81c8e0cd"
+            },
+            {
+              "name": "plan",
+              "type": "sequence of actions",
+              "description": "A sequence of actions describing a plan, including assigned agents, locations, and tasks.",
+              "id": "430f66fa-0659-4d13-bc4f-4fb92aa34e32"
+            },
+            {
+              "name": "Pareto optimal list of solutions",
+              "type": "list of solutions",
+              "description": "A list containing multiple solutions that are Pareto optimal, each with a combination of retry configurations and associated quality metrics.",
+              "id": "c2dbc8b7-ef05-465b-a22f-6b17ec5d6e03"
+            }
+          ],
+          "id": "ea0f42fe-1395-40ee-b7da-6b1f2c9ee3a2"
+        },
+        {
+          "text": "Changes monitored for the early prototype of LTA",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "_C1_",
+              "type": "change",
+              "description": "task failure updated by digital twin AI4Work component",
+              "id": "d938a9d0-5067-4520-a72e-0464c59437f8"
+            },
+            {
+              "name": "_C2_",
+              "type": "change",
+              "description": "change in minimum success probability updated by context-aware AI4Work component",
+              "id": "b462ccdd-34df-4a7a-bad8-d1bc501eeb33"
+            },
+            {
+              "name": "_C3_",
+              "type": "change",
+              "description": "change in minimum assignment probability updated by context-aware AI4Work component",
+              "id": "180c6dba-d632-4a34-866e-465c67aef4da"
+            },
+            {
+              "name": "_C4_",
+              "type": "change",
+              "description": "change in an agent's probability to complete a task updated by digital twin AI4Work component",
+              "id": "fc6acc43-bf3a-4852-8248-10aeec07c66b"
+            }
+          ],
+          "id": "e987481d-7094-4968-88d2-6ed11a07975c"
+        },
+        {
+          "text": "Description of the LTA early prototype testing",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "LTA early prototype",
+              "type": "component",
+              "description": "tested on a preliminary description of the agricultural case study",
+              "id": "da6502de-fd90-4a4a-b9a8-126d300c82b6"
+            },
+            {
+              "name": "agricultural case study",
+              "type": "case_study",
+              "description": "provides a structure for the description of the planning problem accommodating specifics of the agricultural tasks",
+              "id": "47540a89-99f9-4156-a0fc-4f32ef2065a3"
+            }
+          ],
+          "id": "67916bfd-fd26-45f7-a050-dded6721f6cd"
+        },
+        {
+          "text": "Functions of Human-Centred Digital Twins (HCDTs)",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "HCDTs",
+              "type": "digital_twin",
+              "description": "model operational processes and mirror worker status, environmental factors, and terrain complexity",
+              "id": "8f81d32e-ab2d-4a77-9796-22e74e5749eb"
+            }
+          ],
+          "id": "f9980b12-dbf5-4580-8264-4df1fa01b340"
+        },
+        {
+          "text": "Implementation of Human-Centred Digital Twins (HCDTs) for labour-intensive agricultural environments",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Human-Centred Digital Twins (HCDTs)",
+              "type": "Technology",
+              "description": "Digital replicas that model operational processes and mirror worker status, environmental factors, and terrain complexity for adaptive planning.",
+              "id": "7e7911ef-84da-4ce8-919f-66936f6a0eb3"
+            },
+            {
+              "name": "Drone-based transport in steep-slope vineyards",
+              "type": "Operational process",
+              "description": "A specific application of HCDTs for agricultural automation.",
+              "id": "595cae47-8629-4051-8ba6-7452fdd028e5"
+            },
+            {
+              "name": "Deliverable D1.2",
+              "type": "Document",
+              "description": "Conceptual framework defining the role and implementation of HCDTs.",
+              "id": "4996a3d4-c45d-4638-a75b-696bf69049aa"
+            }
+          ],
+          "id": "e63fc8e4-a88f-49df-8b75-1f54d3ff1510"
+        },
+        {
+          "text": "Challenging setting for UC-AGR-2 pilot: steep slopes, variable accessibility, mixed varietal planting, vulnerability to critical infrastructure events",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UC-AGR-2",
+              "type": "Pilot project",
+              "description": "A specific agricultural pilot project.",
+              "id": "a8edb3c0-87dd-41fa-9283-709c8e4d5b05"
+            },
+            {
+              "name": "Steep slopes",
+              "type": "Terrain feature",
+              "description": "A challenging aspect of the UC-AGR-2 pilot's environment.",
+              "id": "b7092954-e846-436e-abe5-a88ec77a9e27"
+            },
+            {
+              "name": "Variable accessibility",
+              "type": "Environmental factor",
+              "description": "Another challenging aspect of the UC-AGR-2 pilot's environment.",
+              "id": "141d4be6-910b-495f-82ae-9707bccd7703"
+            },
+            {
+              "name": "Mixed varietal planting",
+              "type": "Agricultural practice",
+              "description": "A characteristic of the UC-AGR-2 pilot's vineyard.",
+              "id": "b6e889e9-0f11-4d0c-8626-ee1a9eae82db"
+            },
+            {
+              "name": "Critical infrastructure events",
+              "type": "Environmental hazard",
+              "description": "Potential risks affecting the UC-AGR-2 pilot's operations, such as erosion and storm damage.",
+              "id": "3142c2ed-1fe3-4450-8155-4acd780a0be8"
+            }
+          ],
+          "id": "39125dcb-d01b-495c-873c-56aad57e55e4"
+        },
+        {
+          "text": "Identification of high-priority zones for monitoring and intervention",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "High-priority zones",
+              "type": "Monitoring area",
+              "description": "Areas in the UC-AGR-2 pilot's vineyard requiring special attention.",
+              "id": "a3995507-883a-44fe-a44f-ef1c79e4b501"
+            }
+          ],
+          "id": "571120d4-7783-42ec-963b-698dca6bab11"
+        },
+        {
+          "text": "Subsections organised into three complementary efforts: critical vineyard zones, metadata acquisition, and initial virtual prototype",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "Critical vineyard zones",
+              "type": "Monitoring area",
+              "description": "Areas in the UC-AGR-2 pilot's vineyard requiring special attention.",
+              "id": "54556a60-4262-462c-ac92-a5352fd531b3"
+            },
+            {
+              "name": "Metadata acquisition",
+              "type": "Data collection process",
+              "description": "Gathering grapevine-specific data for integration with the Digital Twin structure.",
+              "id": "aac9d4ec-509c-41d0-ae56-f0cc420b90b1"
+            },
+            {
+              "name": "Initial virtual prototype of the vineyard environment",
+              "type": "Digital representation",
+              "description": "An early-stage implementation using NVIDIA Isaac Sim, PX4, and Pegasus.",
+              "id": "be024846-17c9-4d8f-af25-a30fd762ba7a"
+            }
+          ],
+          "id": "e98ef85b-2990-4ea4-b06f-1d481e65fa58"
+        },
+        {
+          "text": "Virtual testing environment for drone operations using NVIDIA Isaac Sim, PX4 Autopilot, and Pegasus Simulator",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "Software",
+              "description": "A tool used for building a virtual testing environment.",
+              "id": "28839da8-d398-4673-acb6-2c262ca596d4"
+            },
+            {
+              "name": "PX4 Autopilot",
+              "type": "Software",
+              "description": "Another tool used for building a virtual testing environment.",
+              "id": "f3d23a7d-32f4-48bf-add5-66b564146308"
+            },
+            {
+              "name": "Pegasus Simulator",
+              "type": "Software",
+              "description": "A third tool used for building a virtual testing environment.",
+              "id": "f53b84a7-6b23-463f-aabf-7875dc65eedf"
+            }
+          ],
+          "id": "1b2f1dc5-53cd-4c85-b42d-2dc2177f72f2"
+        },
+        {
+          "text": "Simulation and validation of drone-based tasks, laying the foundation for AI training, adaptive mission logic, and future integration of worker behaviour models",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Drone-based tasks",
+              "type": "Operational process",
+              "description": "Tasks performed by drones in the virtual testing environment.",
+              "id": "3f55e11a-e650-41d5-9427-4d3ea622f1e0"
+            },
+            {
+              "name": "AI training",
+              "type": "Machine learning process",
+              "description": "Training AI models using data from the virtual testing environment.",
+              "id": "647b2461-6259-4cdd-9507-628df94438cb"
+            },
+            {
+              "name": "Adaptive mission logic",
+              "type": "Algorithm",
+              "description": "A strategy that adapts to changing conditions in the virtual testing environment.",
+              "id": "32964300-e6df-432a-b458-5102643bca06"
+            },
+            {
+              "name": "Worker behaviour models",
+              "type": "Simulation model",
+              "description": "Models representing worker behavior in the virtual testing environment.",
+              "id": "91d7d874-b88a-4c24-8e49-e761f900b3c8"
+            }
+          ],
+          "id": "da01b622-fcfc-4ae1-8890-05885981340b"
+        },
+        {
+          "text": "Simulation architecture of the virtual drone system",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "software",
+              "description": "Advanced physics engine and high-fidelity rendering for simulating environments",
+              "id": "459026be-dc46-401d-b18e-9a751ecca334"
+            },
+            {
+              "name": "PX4 Autopilot",
+              "type": "software",
+              "description": "Enables comprehensive simulation of drone operations",
+              "id": "7bd0e8a6-9654-4f90-87e3-253424d82a3a"
+            },
+            {
+              "name": "Pegasus Simulator",
+              "type": "software",
+              "description": "Simulates heterogeneous agents including drones, human workers, and static infrastructure",
+              "id": "e24cb73f-c5bb-43c9-af55-ae42118e7f76"
+            },
+            {
+              "name": "drone operations",
+              "type": "activity",
+              "description": "Testing and validation of behaviors in a photorealistic 3D world without physical drone hardware",
+              "id": "77108bc2-f436-4314-b35c-639dd639f483"
+            }
+          ],
+          "id": "4c4f6cc3-0b43-4367-839f-e70a423af5db"
+        },
+        {
+          "text": "Capabilities of the simulated scenarios",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "complex task conditions",
+              "type": "condition",
+              "description": "Varied terrain, dynamically positioned workers, environmental changes, and multi-drone coordination",
+              "id": "585d246c-464b-409a-95d0-862c92bdf3e9"
+            },
+            {
+              "name": "AI4Work tools",
+              "type": "tool",
+              "description": "Training and validation of AI tools for adaptive behavior, real-time task reassignment, and human-aware interaction strategies",
+              "id": "e367102a-bcbd-40ee-9a76-b5f9b140d2c8"
+            }
+          ],
+          "id": "910c9297-71e0-4d42-a71b-5ceed8f047f5"
+        },
+        {
+          "text": "Future improvements to the simulated worker agents",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "models of fatigue and performance variation",
+              "type": "model",
+              "description": "Based on contextual factors like slope, heat, and task repetition",
+              "id": "9042c47d-6dff-4a05-9318-a7cd646c6a0d"
+            },
+            {
+              "name": "movement speed",
+              "type": "parameter",
+              "description": "Affected by the models of fatigue and performance variation",
+              "id": "e127e513-df47-4036-b378-938bee57cb71"
+            },
+            {
+              "name": "task completion rates",
+              "type": "parameter",
+              "description": "Affected by the models of fatigue and performance variation",
+              "id": "00ef0ee1-cef9-4ca6-8873-ca13e9810826"
+            },
+            {
+              "name": "responsiveness within the simulated environment",
+              "type": "property",
+              "description": "Affected by the models of fatigue and performance variation",
+              "id": "376f0274-3598-4ddc-9517-0cba4ed7c9ea"
+            }
+          ],
+          "id": "870ac42a-e6c8-415b-9d86-b8e6a4340c4b"
+        },
+        {
+          "text": "Impact on overall task efficiency, workload balancing, and safety-aware planning",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "task efficiency",
+              "type": "measure",
+              "description": "Evaluated by the impact of simulated worker agents' models",
+              "id": "02c69bfa-7407-4757-ac31-b71d7f8f349e"
+            },
+            {
+              "name": "workload balancing",
+              "type": "measure",
+              "description": "Evaluated by the impact of simulated worker agents' models",
+              "id": "e674f054-00a2-449e-9ae7-f05c93fb5daa"
+            },
+            {
+              "name": "safety-aware planning",
+              "type": "strategy",
+              "description": "Affected by the impact of simulated worker agents' models",
+              "id": "9abeed68-a551-4070-854a-5c2c6c1d28bf"
+            }
+          ],
+          "id": "e4056310-9d8d-40ee-814f-e0b99a584675"
+        },
+        {
+          "text": "Pegasus leveraging advanced features of NVIDIA Isaac Sim",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "software",
+              "description": "Advanced physics engine, high-fidelity rendering, and capability to simulate heterogeneous agents",
+              "id": "74eb66fe-e4d1-4138-a57f-73a3c7dbda6a"
+            },
+            {
+              "name": "Pegasus",
+              "type": "software",
+              "description": "Built on NVIDIA Isaac Sim for realistic and immersive mission validation",
+              "id": "8f768bff-1f3a-4be1-8c5a-2d1126c3dde6"
+            }
+          ],
+          "id": "6ba12e13-b64c-46bd-aaef-c5cf9532f836"
+        },
+        {
+          "text": "Benefits of Pegasus simulation",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "reduced development time",
+              "type": "benefit",
+              "description": "By aligning simulated behavior with real-world conditions",
+              "id": "84d75e4c-2c2f-490e-a906-c68055aa2f47"
+            },
+            {
+              "name": "Sim2Real gap bridging",
+              "type": "benefit",
+              "description": "Aligning simulated behavior with real-world conditions",
+              "id": "fa17acc8-e9df-4eec-b718-1443232f2903"
+            }
+          ],
+          "id": "801837db-bac5-45f3-ad5c-5c93b602857e"
+        },
+        {
+          "text": "Upcoming data collection campaigns for refining the simulation",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "data collection campaigns",
+              "type": "activity",
+              "description": "In the next growing season",
+              "id": "f9a7a636-2f1d-41c0-a36e-401b88cfa467"
+            }
+          ],
+          "id": "0aef4b4a-4b9c-4e4b-a430-30812c00de00"
+        },
+        {
+          "text": "Figure 19 - Architecture of the virtual drone simulation system",
+          "score": 0.5,
+          "entities": [],
+          "id": "c6cc8ab5-6e51-435d-926b-e3ac521d29c9"
+        },
+        {
+          "text": "Figure 20 - Visual comparison between synthetic and real vineyard imagery.",
+          "score": 0.5,
+          "entities": [],
+          "id": "718f8b1b-2499-49cd-9cad-91346b551c67"
+        },
+        {
+          "text": "Simulation environment for UAV testing",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Figure 20",
+              "type": "image",
+              "description": "Visual comparison between synthetic and real vineyard imagery",
+              "id": "38d0a8bf-005b-4fd4-9e6d-474e4c1a54ee"
+            },
+            {
+              "name": "Isaac Sim",
+              "type": "software",
+              "description": "Used for testing UAV perception and mission logic",
+              "id": "e1df9d69-aa3a-4794-84ba-ed85ef80d576"
+            },
+            {
+              "name": "PX4",
+              "type": "software",
+              "description": "Open-source flight control software handling real-time flight dynamics, vehicle control, interpreting mission commands, processing sensor inputs, and producing actuator outputs.",
+              "id": "c7084f91-4684-4726-b1b8-34bff9eae61c"
+            },
+            {
+              "name": "MAVLink protocol",
+              "type": "communication_protocol",
+              "description": "Used for communication between PX4 and other components",
+              "id": "53b2a089-fc15-460c-8c2f-f2fcaa9b3fe8"
+            },
+            {
+              "name": "DJI ROS driver",
+              "type": "software",
+              "description": "Emulates the DJI UAV interface for simulation and integration",
+              "id": "0f24779b-d3ea-4a3a-818d-9dc107e8f4bd"
+            },
+            {
+              "name": "Pegasus",
+              "type": "middleware",
+              "description": "Translates telemetry from PX4 into real-time updates in the Isaac Sim world and feeds back synthetic sensor data to PX4",
+              "id": "2713be6c-d8a5-42d2-9a23-8f2dd3be3cb4"
+            },
+            {
+              "name": "AI4Work platform",
+              "type": "system",
+              "description": "Testing the planning and Digital Twin components",
+              "id": "ce6076fa-a373-4438-95d4-c44aa2f17088"
+            }
+          ],
+          "id": "ef8b22a2-ee73-49f0-94c7-75362459bbd9"
+        },
+        {
+          "text": "Simulated Environment Construction for UAV Mission Validation",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UAV Operations",
+              "type": "Activity",
+              "description": "Operations performed by Unmanned Aerial Vehicles (UAVs)",
+              "key_score": 0.8,
+              "id": "addb1c1f-6831-49b1-aca3-3e27541267e4"
+            },
+            {
+              "name": "Vineyard Environment",
+              "type": "Location",
+              "description": "Environment where UAV operations take place, specifically a vineyard",
+              "key_score": 0.9,
+              "id": "9d778a56-1b43-4915-8e97-1c583e198f23"
+            },
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "Software",
+              "description": "A robotics simulation platform used to create the virtual testbed",
+              "key_score": 0.7,
+              "id": "ee7237a5-9b15-40dc-b80b-5f351a3a9fab"
+            },
+            {
+              "name": "Custom-built terrain and asset models",
+              "type": "Resource",
+              "description": "Models replicating the real-world layout of VMT",
+              "key_score": 0.6,
+              "id": "3cf31c6c-8385-4537-b5cb-3c69011612b9"
+            }
+          ],
+          "id": "8282e54c-d47e-4a6a-946e-dad1c42fed94"
+        },
+        {
+          "text": "Full simulation architecture for UAV operations",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "PX4",
+              "type": "Software",
+              "description": "Flight control software for drones",
+              "key_score": 0.7,
+              "id": "191ca243-8887-4845-bf7d-2d179905c2df"
+            },
+            {
+              "name": "Isaac Sim",
+              "type": "Software",
+              "description": "Robotics simulation platform handling rendering, terrain, objects, and flight physics",
+              "key_score": 0.8,
+              "id": "59621a25-2b00-4a27-a1dc-c3b3f4196a6f"
+            },
+            {
+              "name": "Pegasus",
+              "type": "Middleware",
+              "description": "Middleware between PX4 and Isaac Sim for translating telemetry and feeding back synthetic sensor data",
+              "key_score": 0.6,
+              "id": "2a069635-899e-4653-94ec-d228fe023514"
+            },
+            {
+              "name": "MAVLink format",
+              "type": "Data Format",
+              "description": "Format used to transmit data between PX4 and Pegasus",
+              "key_score": 0.5,
+              "id": "87237f26-deb1-4402-84ef-d369dad44ba0"
+            }
+          ],
+          "id": "b87249e6-60c2-4bbc-89fc-fae65ebc89a1"
+        },
+        {
+          "text": "Ground Control Station (QGroundControl) for managing UAV missions",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "UAV Missions",
+              "type": "Activity",
+              "description": "Missions defined and managed by the Ground Control Station",
+              "key_score": 0.7,
+              "id": "a84c0294-4ba0-4112-a5dd-699dea08f4c6"
+            },
+            {
+              "name": "QGroundControl",
+              "type": "Software",
+              "description": "Software used to manage UAV missions, monitor telemetry, and issue commands",
+              "key_score": 0.6,
+              "id": "37aab2a2-532d-4fba-a847-e73929c7fae9"
+            }
+          ],
+          "id": "388447b4-a687-4200-a0d4-567e4cbc8ac5"
+        },
+        {
+          "text": "Preliminary integration work for simulating worker positions and activities within the virtual vineyard",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "Worker Simulation",
+              "type": "Activity",
+              "description": "Simulation of worker positions and activities within the virtual vineyard",
+              "key_score": 0.5,
+              "id": "95c3f349-735f-4196-83ac-5019956f656a"
+            },
+            {
+              "name": "Human-aware long-term adaptation",
+              "type": "Strategy",
+              "description": "Strategies considering human presence in the virtual environment for long-term adaptation",
+              "key_score": 0.4,
+              "id": "8081197d-8735-460b-ac10-08edadde135c"
+            }
+          ],
+          "id": "6017b7f8-e8e6-4966-a9b2-27226f9a9465"
+        },
+        {
+          "text": "Step-by-step virtual drone simulation workflow",
+          "score": 0.2,
+          "entities": [
+            {
+              "name": "Virtual Drone Simulation Workflow",
+              "type": "Process",
+              "description": "The process of running a virtual flight mission using the given setup",
+              "key_score": 0.3,
+              "id": "1100c307-4d5a-4d5d-93c6-63b745fae410"
+            },
+            {
+              "name": "Figure 21",
+              "type": "Diagram",
+              "description": "Diagram illustrating the step-by-step process for running a virtual flight mission",
+              "key_score": 0.2,
+              "id": "488cd73f-b638-4b99-b04a-9eaddc32ffaf"
+            }
+          ],
+          "id": "c4628832-9ebc-4433-be36-fdc254c84937"
+        },
+        {
+          "text": "End-to-End Workflow for Vineyard Simulation Environment Creation",
+          "score": 0.1,
+          "entities": [
+            {
+              "name": "Vineyard Simulation Environment Creation",
+              "type": "Process",
+              "description": "The process of creating a simulation environment for the vineyard",
+              "key_score": 0.2,
+              "id": "2fd9b329-f52e-4df7-99f9-57b82d51a6ea"
+            },
+            {
+              "name": "Figure 22",
+              "type": "Diagram",
+              "description": "Diagram illustrating the multi-step workflow for generating the vineyard environment",
+              "key_score": 0.1,
+              "id": "517ddd74-6216-4d75-b9b6-6aae786e8b8e"
+            }
+          ],
+          "id": "108a2eaa-fe42-4454-82bb-75128b1787ff"
+        },
+        {
+          "text": "Image Acquisition: Aerial images of the vineyard are captured using drone-mounted cameras",
+          "score": 0.05,
+          "entities": [
+            {
+              "name": "Aerial Images",
+              "type": "Resource",
+              "description": "Images captured from a drone for creating the simulation environment",
+              "key_score": 0.6,
+              "id": "e35e0005-1fee-45f0-915c-bdb9f7adc86e"
+            },
+            {
+              "name": "Drone-mounted cameras",
+              "type": "Equipment",
+              "description": "Cameras mounted on drones used to capture aerial images",
+              "key_score": 0.4,
+              "id": "592fb539-4576-4885-8621-2307d99ba5e8"
+            }
+          ],
+          "id": "80d2053e-473f-4fb8-b0dc-eebf1417f529"
+        },
+        {
+          "text": "Vineyard Simulation Environment Creation",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "Software",
+              "description": "A platform for simulating robotic systems.",
+              "key_score": 0.2,
+              "id": "ded63f16-122a-4eeb-98f7-48603f942964"
+            },
+            {
+              "name": "Custom-built terrain and asset models",
+              "type": "Physical Entity",
+              "description": "3D representations of the real-world layout of VMT.",
+              "key_score": 0.2,
+              "id": "cb8d9e78-a7ca-48f7-82ca-73e64ef14152"
+            },
+            {
+              "name": "VMT",
+              "type": "Location",
+              "description": "The location replicated in the simulation.",
+              "key_score": 0.1,
+              "id": "fbec1abf-394f-4a94-aab0-fcb1c4b7eefd"
+            },
+            {
+              "name": "Aerial images",
+              "type": "Media",
+              "description": "Images captured using drone-mounted cameras.",
+              "key_score": 0.1,
+              "id": "54091c77-d149-46d7-a2f0-21a338200598"
+            },
+            {
+              "name": "WebODM",
+              "type": "Software",
+              "description": "Photogrammetry tools used for terrain modeling.",
+              "key_score": 0.1,
+              "id": "f26e6e9f-85c2-4787-b937-bb6ce2f8acee"
+            },
+            {
+              "name": "Blender",
+              "type": "Software",
+              "description": "Used for refining and flattening the terrain mesh.",
+              "key_score": 0.1,
+              "id": "0b93217b-29dc-445d-b93f-c36649a3cf14"
+            },
+            {
+              "name": "3D asset library",
+              "type": "Resource Library",
+              "description": "A collection of 3D models of rows of vines.",
+              "key_score": 0.1,
+              "id": "bff678ac-1c90-48b8-8a01-7b05f2fd9d25"
+            },
+            {
+              "name": "CSV-based layout definitions",
+              "type": "Data File",
+              "description": "Files controlling the placement and spacing of vines.",
+              "key_score": 0.1,
+              "id": "d3fb698a-f217-4f6e-8dac-72428073f136"
+            }
+          ],
+          "id": "b6bd57de-4d22-4b3a-8507-a43f2ce50c00"
+        },
+        {
+          "text": "Photogrammetric Terrain Reconstruction of Maria Teresa vineyard",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Maria Teresa vineyard",
+              "type": "Location",
+              "description": "The vineyard whose terrain is modeled.",
+              "key_score": 0.4,
+              "id": "e18fc2d8-0fe7-4f29-9c70-ebef2e24e6d0"
+            },
+            {
+              "name": "Aerial drone imagery",
+              "type": "Media",
+              "description": "Images used for the terrain reconstruction.",
+              "key_score": 0.2,
+              "id": "1caf1f34-21b6-47a0-a0a7-32ab05857a4f"
+            },
+            {
+              "name": "WebODM",
+              "type": "Software",
+              "description": "The software used to generate the 3D model.",
+              "key_score": 0.2,
+              "id": "62de3210-1cd7-4194-a0d4-bf93e94d2085"
+            }
+          ],
+          "id": "6871b098-d418-479c-950b-8e5b44ed782e"
+        },
+        {
+          "text": "Configuring the simulation environment in NVIDIA Isaac Sim",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "Software",
+              "description": "The platform where the scene is configured.",
+              "key_score": 0.4,
+              "id": "150c5306-5edf-4e03-9a9d-d28cfaa8f81b"
+            },
+            {
+              "name": "Available assets",
+              "type": "Resource Library",
+              "description": "Vineyard options to select from.",
+              "key_score": 0.1,
+              "id": "98d64e10-e5e2-4297-bdd1-c3393ab32b0f"
+            },
+            {
+              "name": "GPS coordinates",
+              "type": "Location Data",
+              "description": "Data used for setting the scene's location.",
+              "key_score": 0.1,
+              "id": "a655e2c1-1702-4c0c-b232-62f38957f578"
+            },
+            {
+              "name": "Vehicle model",
+              "type": "Robotic System",
+              "description": "The drone used in the simulation.",
+              "key_score": 0.1,
+              "id": "24544ad5-ccbc-4364-a9e2-cb1f47f95f46"
+            },
+            {
+              "name": "Pegasus Simulator Extension UI",
+              "type": "User Interface",
+              "description": "The tool for configuring the scene.",
+              "key_score": 0.1,
+              "id": "353f1286-3f2d-4df2-a3eb-c99ba63a978d"
+            }
+          ],
+          "id": "cf5aa5d7-e6fb-4715-a012-b5ff36407b70"
+        },
+        {
+          "text": "Simulating human-drone interaction using NVIDIA Isaac Sim",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "software",
+              "description": "A platform for simulating robotic systems",
+              "id": "b5f712f2-75d5-4947-8ff2-f6bec880b3ce"
+            },
+            {
+              "name": "human-drone interaction",
+              "type": "activity",
+              "description": "Testing and controlling drones by humans",
+              "id": "b839972f-a9c8-467a-b021-ac5dd1db10b4"
+            }
+          ],
+          "id": "c66eb365-26c0-46af-8484-caca3433cbd8"
+        },
+        {
+          "text": "Configuring simulation environment in two ways",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Pegasus Simulator Extension UI",
+              "type": "tool",
+              "description": "A user interface for configuring the scene",
+              "id": "bb8ffb0b-015d-4af1-b117-b8e0fd0bd0d1"
+            },
+            {
+              "name": "Automated Script",
+              "type": "tool",
+              "description": "A tool for automating configuration and image capture",
+              "id": "5ef0c05e-4fca-4006-a286-36faaa5138f0"
+            }
+          ],
+          "id": "70e4ac6f-99d5-4f20-ba70-7a21bf84c5b6"
+        },
+        {
+          "text": "Creating simulated vineyard environment",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "vineyard",
+              "type": "location",
+              "description": "A virtual 3D landscape for drone flight simulation",
+              "id": "11ad92ee-0428-4b40-967c-df5ef34407cd"
+            }
+          ],
+          "id": "5d4f8c17-49d4-48be-97b9-b72a0dc5174c"
+        },
+        {
+          "text": "Mission Control Workflow",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UC-AGR-2 pilot",
+              "type": "standard",
+              "description": "A set of guidelines for drone operations in vineyard logistics",
+              "id": "cb0a4830-2ac4-4c0c-952a-150b49668273"
+            },
+            {
+              "name": "QGroundControl (QGC)",
+              "type": "tool",
+              "description": "An open-source ground control station for UAVs",
+              "id": "3e399448-d8f2-40a5-af1e-98110a1ad417"
+            },
+            {
+              "name": "PX4",
+              "type": "software",
+              "description": "A flight stack for autonomous vehicles",
+              "id": "cf7b367a-15fe-4df0-a0f7-c4c852b2a69d"
+            },
+            {
+              "name": "MAVLink",
+              "type": "protocol",
+              "description": "A communication protocol between QGC and PX4",
+              "id": "f638ae72-5e65-4dd4-bea1-3ce3297feae1"
+            }
+          ],
+          "id": "a64ac0e4-91b3-4ff9-85b8-fa29a666887d"
+        },
+        {
+          "text": "Controlling virtual drone using QGroundControl (QGC)",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "virtual drone",
+              "type": "robot",
+              "description": "A simulated unmanned aerial vehicle",
+              "id": "c3444aa8-0298-495d-bf0b-edc413cd921e"
+            },
+            {
+              "name": "QGroundControl (QGC)",
+              "type": "tool",
+              "description": "A ground control station for UAVs",
+              "id": "5c90932f-e724-47a0-b046-d89520be1de8"
+            }
+          ],
+          "id": "bdebf82c-703c-487e-9871-6d5b5952242a"
+        },
+        {
+          "text": "Flight controller setup in the simulation environment",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "QGroundControl application",
+              "type": "software",
+              "description": "The QGC software for controlling drones",
+              "id": "0c7780a0-d3f2-4b89-907e-2dcc632a9ad9"
+            },
+            {
+              "name": "PX4 SITL instance",
+              "type": "software",
+              "description": "A simulation instance of PX4",
+              "id": "9a6f73ed-a61b-472f-a6ee-7b1515f45fb9"
+            }
+          ],
+          "id": "c0f7dd5b-3b1f-4291-8d2b-1cb0e34ffcd3"
+        },
+        {
+          "text": "The workflow for flight controller setup in the simulation environment",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "QGroundControl",
+              "type": "software",
+              "description": "An intuitive graphical interface for planning missions, configuring UAV behaviour, and monitoring flight telemetry in real time.",
+              "key_score": 0.9,
+              "id": "aa773170-e5be-48b7-a16c-a26459d2fea0"
+            },
+            {
+              "name": "PX4 SITL instance",
+              "type": "software",
+              "description": "Part of the simulation running on the host machine, which interacts with QGroundControl.",
+              "key_score": 0.8,
+              "id": "7191918c-6728-437a-ba78-19accecb97fd"
+            },
+            {
+              "name": "Mission plan",
+              "type": "data",
+              "description": "A sequence of waypoints, actions, or survey patterns defined within QGC's mission planning interface.",
+              "key_score": 0.7,
+              "id": "c7bf4ee2-9e29-48b5-995b-80a0f74fac7e"
+            },
+            {
+              "name": "MAVLink",
+              "type": "protocol",
+              "description": "Used for uploading the mission to the PX4 instance.",
+              "key_score": 0.6,
+              "id": "7eb28e22-d332-4436-91ad-eb8b1b40a9c3"
+            },
+            {
+              "name": "GPS lock",
+              "type": "sensor",
+              "description": "A condition that needs to be confirmed before starting the mission.",
+              "key_score": 0.5,
+              "id": "7879b12c-f54b-4432-bebb-4b7f75a2357f"
+            },
+            {
+              "name": "Battery status (simulated)",
+              "type": "sensor",
+              "description": "A simulated sensor that needs to be checked before starting the mission.",
+              "key_score": 0.4,
+              "id": "1e23a6cf-46bf-4da6-8d7e-1b71fb831b7f"
+            },
+            {
+              "name": "Flight mode",
+              "type": "parameter",
+              "description": "A parameter that needs to be correctly initialized in QGC.",
+              "key_score": 0.3,
+              "id": "69a67a49-5698-4109-a078-212f1f3fa44d"
+            }
+          ],
+          "id": "230be372-c2e3-4e69-9c1b-17d6dff5dca8"
+        },
+        {
+          "text": "sed in real-world UAV deployment is tested in a photorealistic and physics-accurate environment",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "UAV deployment",
+              "type": "event",
+              "description": "being tested in a simulated environment",
+              "key_score": 0.8,
+              "id": "013afe6f-7804-4d67-b2ad-2acfc94f12fd"
+            }
+          ],
+          "id": "1205772c-702c-4249-a535-02e6e1e59079"
+        },
+        {
+          "text": "The drone autonomously follows the uploaded mission",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "drone",
+              "type": "object",
+              "description": "following an uploaded mission",
+              "key_score": 0.7,
+              "id": "9749f903-8fe5-48e0-bd4d-38ee4c48d04d"
+            }
+          ],
+          "id": "1029d98d-231e-4e5e-ae72-d88f7139e988"
+        },
+        {
+          "text": "It moves through the simulated vineyard, collecting telemetry and simulated sensor data in real time",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "drone",
+              "type": "object",
+              "description": "moving through a simulated vineyard",
+              "key_score": 0.6,
+              "id": "9ea501e3-f3e9-44e0-a703-c1bc6c300348"
+            },
+            {
+              "name": "telemetry data",
+              "type": "data",
+              "description": "collected in real time",
+              "key_score": 0.6,
+              "id": "824952bf-982b-4b96-8e1a-84c02557dc2f"
+            }
+          ],
+          "id": "820bfc1d-63ea-43fb-8a9a-263d4a398da6"
+        },
+        {
+          "text": "If camera simulation is active, it also captures visual data from the virtual environment",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "drone",
+              "type": "object",
+              "description": "capturing visual data if camera simulation is active",
+              "key_score": 0.5,
+              "id": "b0540282-b82b-4650-9c29-ddaef920be5c"
+            },
+            {
+              "name": "visual data",
+              "type": "data",
+              "description": "captured from the virtual environment",
+              "key_score": 0.5,
+              "id": "0f954ff8-6ed7-40b2-a77e-2a0dee21aa34"
+            }
+          ],
+          "id": "3bc5af07-8c98-4e8a-829e-efbefb1b8b19"
+        },
+        {
+          "text": "After completing the mission, both Isaac Sim and QGroundControl are closed to end the session",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "mission",
+              "type": "event",
+              "description": "ending with the closing of Isaac Sim and QGroundControl",
+              "key_score": 0.4,
+              "id": "dc31a047-ff9a-4a79-a8f7-79f11696f855"
+            }
+          ],
+          "id": "0b509caa-9656-4da4-acfc-a4bceaf3c843"
+        },
+        {
+          "text": "The Context Awareness component of AI4Work supports dynamic adaptation of AI-driven systems",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Context Awareness",
+              "type": "component",
+              "description": "supporting dynamic adaptation of AI-driven systems",
+              "key_score": 0.7,
+              "id": "83eedd56-0ec0-497d-88b8-23c17f899d9c"
+            }
+          ],
+          "id": "e762303b-3223-46f7-bca7-db5601c47cdf"
+        },
+        {
+          "text": "In the context of UC-AGR pilots, this capability is essential for enabling UAVs to navigate safely",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UC-AGR pilots",
+              "type": "event",
+              "description": "requiring safe navigation of UAVs",
+              "key_score": 0.6,
+              "id": "81d554d0-5097-4157-a848-89e19d57f38e"
+            },
+            {
+              "name": "UAVs",
+              "type": "object",
+              "description": "navigating safely",
+              "key_score": 0.6,
+              "id": "88ce54fa-8201-41ba-a12a-8eaab13e538e"
+            }
+          ],
+          "id": "4d5d8d83-3880-4571-9901-6fd4cbd7bc43"
+        },
+        {
+          "text": "and collect high-quality data",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "UAVs",
+              "type": "object",
+              "description": "collecting high-quality data",
+              "key_score": 0.5,
+              "id": "c709e327-6009-4fc4-8e50-5180729c9e92"
+            }
+          ],
+          "id": "2af924d4-0360-4390-95a8-c17f15ec92d4"
+        },
+        {
+          "text": "and respond appropriately to mission-critical events",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "UAVs",
+              "type": "object",
+              "description": "responding appropriately to mission-critical events",
+              "key_score": 0.4,
+              "id": "ddc44bc9-7bbc-4a70-8af7-b667d7ac8b86"
+            }
+          ],
+          "id": "bffbe3c5-baa8-4099-b832-29a76923a5d4"
+        },
+        {
+          "text": "The preparatory work conducted to define and test context-aware UAV behaviour ahead of full pilot deployment",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "preparatory work",
+              "type": "event",
+              "description": "defining and testing context-aware UAV behavior",
+              "key_score": 0.6,
+              "id": "a80f157a-592c-4e27-8579-620edb1e7086"
+            }
+          ],
+          "id": "27d5fef0-6936-48e0-b701-409d89ea880e"
+        },
+        {
+          "text": "These efforts include the identification of critical monitoring zones",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "critical monitoring zones",
+              "type": "location",
+              "description": "identified during preparatory work",
+              "key_score": 0.5,
+              "id": "6d6206d2-5689-4473-8acc-f59a42aedc0a"
+            }
+          ],
+          "id": "d8b1c0f3-f85f-430c-b635-17689cd856de"
+        },
+        {
+          "text": "the definition of flight parameters aligned with environmental and operational constraints",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "flight parameters",
+              "type": "parameter",
+              "description": "defined for UAVs",
+              "key_score": 0.4,
+              "id": "d1f54a75-4ceb-4e33-aafc-fce3363db97f"
+            }
+          ],
+          "id": "fb00bf32-25e0-4b03-b16a-9eaa12486b60"
+        },
+        {
+          "text": "and the integration of terrain and geospatial data into simulation-based validation workflows",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "terrain and geospatial data",
+              "type": "data",
+              "description": "integrated into simulation-based validation workflows",
+              "key_score": 0.3,
+              "id": "e2427865-dd5b-40dc-af9f-12a68be30eea"
+            }
+          ],
+          "id": "8b2b8c11-20c6-452b-9709-e21209722aec"
+        },
+        {
+          "text": "All configurations will be evaluated using the NVIDIA Omniverse-based simulation environment developed within AI4Work",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "configurations",
+              "type": "configuration",
+              "description": "evaluated using a simulation environment",
+              "key_score": 0.5,
+              "id": "847f4028-3199-44a0-b4ef-3ca58fa00583"
+            },
+            {
+              "name": "NVIDIA Omniverse-based simulation environment",
+              "type": "environment",
+              "description": "developed within AI4Work",
+              "key_score": 0.5,
+              "id": "42a0dc0a-8de2-4c22-b129-9cc74e96dba0"
+            }
+          ],
+          "id": "154b721f-aa14-413d-9462-0c9111b26d53"
+        },
+        {
+          "text": "which replicates the vineyard's physical structure and supports iterative refinement of mission planning and UAV response strategies",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "NVIDIA Omniverse-based simulation environment",
+              "type": "environment",
+              "description": "replicating the vineyard's physical structure",
+              "key_score": 0.4,
+              "id": "47b173c9-8965-47ed-8862-525278937c43"
+            },
+            {
+              "name": "mission planning and UAV response strategies",
+              "type": "strategy",
+              "description": "refined iteratively",
+              "key_score": 0.4,
+              "id": "dc291af3-d623-4fe6-9e3b-2fe6f84844f4"
+            }
+          ],
+          "id": "124f3dbf-803d-4793-9618-36f0224f83e5"
+        },
+        {
+          "text": "These foundational steps lay the groundwork for future integration of more advanced context modelling mechanisms in the next phases of the project",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "foundational steps",
+              "type": "step",
+              "description": "laying the groundwork for future integration",
+              "key_score": 0.3,
+              "id": "c5ea46a1-f800-43ee-9614-85d6cba5dea9"
+            }
+          ],
+          "id": "f50d3555-4939-40a5-8633-a216a3f27fe0"
+        },
+        {
+          "text": "Monitoring flights are configured to collect structured datasets aligned with the goals of UC-AGR-1 and UC-AGR-2",
+          "score": 0.4,
+          "entities": [
+            {
+              "name": "monitoring flights",
+              "type": "flight",
+              "description": "configured to collect structured datasets",
+              "key_score": 0.4,
+              "id": "5b7a86d5-a9d7-49f8-91c6-a00b2a09092a"
+            },
+            {
+              "name": "UC-AGR-1 and UC-AGR-2",
+              "type": "event",
+              "description": "goals of the flights",
+              "key_score": 0.4,
+              "id": "be1d58ba-307f-4bf8-9025-e87b01a12341"
+            }
+          ],
+          "id": "797b9289-0e40-4dd8-ae75-e65d74852a62"
+        },
+        {
+          "text": "Routes are built around the following operational goals:",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "routes",
+              "type": "route",
+              "description": "built around operational goals",
+              "key_score": 0.3,
+              "id": "ec866005-6c82-4bfc-92ec-b46d8aaf31f6"
+            }
+          ],
+          "id": "f4776baa-b6ec-4a4c-904e-1a6d822e614d"
+        },
+        {
+          "text": "---",
+          "score": 0,
+          "entities": [],
+          "id": "f88a76c5-8496-4f9f-90b9-9ee6b13cdc16"
+        },
+        {
+          "text": "AI4Work replicates the vineyard's physical structure and supports iterative refinement of mission planning and UAV response strategies.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "AI4Work",
+              "type": "project",
+              "description": "Artificial Intelligence project for agriculture.",
+              "id": "e97b0ab1-9792-42f9-af83-4077abf12d2e"
+            },
+            {
+              "name": "vineyard",
+              "type": "location",
+              "description": "A vineyard where AI4Work is implemented.",
+              "id": "d69b6aee-4bf9-4e98-a9bc-43cfe43cd1e7"
+            }
+          ],
+          "id": "4689c8dd-9b83-4ec8-898d-f89686f058d1"
+        },
+        {
+          "text": "Monitoring flights are configured to collect structured datasets aligned with the goals of UC-AGR-1 and UC-AGR-2.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UC-AGR-1",
+              "type": "agriculture_project",
+              "description": "Agriculture project UC-AGR-1.",
+              "id": "026ca738-85fa-47a7-884b-da91ba071c4f"
+            },
+            {
+              "name": "UC-AGR-2",
+              "type": "agriculture_project",
+              "description": "Agriculture project UC-AGR-2.",
+              "id": "66af4e3d-b475-401d-b4d5-6764933fd093"
+            }
+          ],
+          "id": "1c142aea-1ddd-4f88-9b3c-0770f47076f5"
+        },
+        {
+          "text": "Routes are built around the following operational goals: Pest and Disease Monitoring Potential, Monitoring of Critical Vineyard Zones, Microclimate Characterization.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Pest and Disease Monitoring Potential",
+              "type": "operational_goal",
+              "description": "Monitoring for pests and diseases in the vineyard.",
+              "id": "bba1e5aa-aea2-4b5a-baa5-835c2a69e159"
+            },
+            {
+              "name": "Monitoring of Critical Vineyard Zones",
+              "type": "operational_goal",
+              "description": "Monitoring key areas in the vineyard with specific issues.",
+              "id": "3de2141d-5bb0-4c9e-bf98-5c71d34af943"
+            },
+            {
+              "name": "Microclimate Characterization",
+              "type": "operational_goal",
+              "description": "Collecting environmental data to understand microclimates in the vineyard.",
+              "id": "9fd348a3-208e-4cba-acee-fadcc97967a7"
+            }
+          ],
+          "id": "9c5a26ee-652d-4073-ba6a-4666c1e5078a"
+        },
+        {
+          "text": "UAVs fly low-altitude paths to collect leaf-level imagery.",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "aerial_vehicle",
+              "description": "Unmanned Aerial Vehicle.",
+              "id": "8188e562-5b4a-491d-be8b-455b83b6dba3"
+            }
+          ],
+          "id": "4c0d700c-ca47-4b4c-93c1-b0804400997d"
+        },
+        {
+          "text": "Mission plans target specific zones identified in Subsection 3.4.1 as having higher disease sensitivity due to vine variety composition and prior observations.",
+          "score": 0.6,
+          "entities": [],
+          "id": "3e13748a-f6be-4f23-9ce1-9f6ec427bca6"
+        },
+        {
+          "text": "UAV paths revisit key areas in VMT: the slope near the access road, terraces between 120 and 140 meters of elevation, mixed-variety sectors.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "VMT",
+              "type": "location",
+              "description": "Location with key areas revisited by UAV paths.",
+              "id": "71fa18e3-9d97-4490-aea1-21811e5fa4e1"
+            }
+          ],
+          "id": "85746999-7864-4f95-bcb1-bb0d7c5d54c0"
+        },
+        {
+          "text": "UAVs collect environmental data along predefined routes following topographic gradients.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "aerial_vehicle",
+              "description": "Unmanned Aerial Vehicle.",
+              "id": "d36a1ac3-228b-4b92-a7bb-55b0e60da2da"
+            }
+          ],
+          "id": "e602bb29-b971-430e-9b47-55a5268757af"
+        },
+        {
+          "text": "Each mission is repeatable and spatially consistent.",
+          "score": 0.5,
+          "entities": [],
+          "id": "5d71b0de-028d-4f5c-8aae-3996b97662b6"
+        },
+        {
+          "text": "Given the terraced structure and narrow rows in the vineyard, precise control over UAV positioning is required.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "aerial_vehicle",
+              "description": "Unmanned Aerial Vehicle.",
+              "id": "af6e3bb9-8da8-499d-8af6-0919228a65a7"
+            },
+            {
+              "name": "vineyard",
+              "type": "location",
+              "description": "A vineyard where AI4Work is implemented.",
+              "id": "13ea0e41-beb2-4561-b43d-ec2e3fe3d13a"
+            }
+          ],
+          "id": "41d48b4b-64f3-46de-93d8-465484bb1eab"
+        },
+        {
+          "text": "Correlation between environmental data and UAV sensor readings",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Environmental Data",
+              "type": "Concept",
+              "description": "Data related to environmental conditions.",
+              "id": "23f5be0b-62d3-4aa5-b730-4a8c9e8e8801"
+            },
+            {
+              "name": "UAV Sensor Readings",
+              "type": "Concept",
+              "description": "Measurements taken by the UAV's sensors.",
+              "id": "ff6dd286-544c-40c5-841d-aaed786e8489"
+            }
+          ],
+          "id": "a25bf1b6-4025-4559-8367-d96f89c6e573"
+        },
+        {
+          "text": "Repeatable and spatially consistent missions",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Mission",
+              "type": "Concept",
+              "description": "A sequence of actions performed by the UAV.",
+              "id": "73106c52-0f6d-4f90-896e-071dccc4af77"
+            }
+          ],
+          "id": "c2b24292-c21d-4711-84c5-76051b86a0ce"
+        },
+        {
+          "text": "Altitude Management and Obstacle Avoidance strategies for UAVs in vineyards",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "description": "Unmanned Aerial Vehicle.",
+              "id": "cba0cea2-9e8b-455b-b8f2-9df7a425eb37"
+            },
+            {
+              "name": "Altitude Management",
+              "type": "Strategy",
+              "description": "Techniques used to control the UAV's altitude.",
+              "id": "34653b38-2d55-40ec-8973-ff3b1697d76d"
+            },
+            {
+              "name": "Obstacle Avoidance",
+              "type": "Strategy",
+              "description": "Techniques used by the UAV to avoid obstacles.",
+              "id": "4ebc484a-5325-42fb-b57d-67950795fc4a"
+            }
+          ],
+          "id": "e2b46624-792f-496e-be0f-32a3ccdd12a2"
+        },
+        {
+          "text": "Minimum Flight Altitude strategy for UAVs in vineyards",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "d98ae10f-be12-4836-b2fa-42c18174ccdc"
+            },
+            {
+              "name": "Minimum Flight Altitude",
+              "type": "Strategy",
+              "description": "The lowest altitude the UAV can fly.",
+              "id": "26a6d5d2-5240-4791-9b21-53b317f1fb73"
+            }
+          ],
+          "id": "31b654ab-4df3-409e-bbe8-71f502d85823"
+        },
+        {
+          "text": "Terrain Following strategy for UAVs in vineyards",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "105b27fc-43d1-473d-870f-c94528002cf6"
+            },
+            {
+              "name": "Terrain Following",
+              "type": "Strategy",
+              "description": "The UAV's ability to adjust its altitude based on the terrain.",
+              "id": "c2441072-03a6-4f0d-8adb-1cbb0a3d7d9d"
+            }
+          ],
+          "id": "f2bbd179-2b21-44ea-b0bb-7a72717468a6"
+        },
+        {
+          "text": "Obstacle Awareness and Avoidance for UAVs in vineyards",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "70be0097-f2b8-465c-8b2f-4629590ee55c"
+            },
+            {
+              "name": "Obstacle Awareness",
+              "type": "Strategy",
+              "description": "The UAV's ability to detect obstacles.",
+              "id": "7254dbe4-ae01-4b20-b2f1-ae9777efba40"
+            },
+            {
+              "name": "Obstacle Avoidance",
+              "type": "Strategy",
+              "id": "954f8a16-c69a-4ed2-8ee2-cf25e71aaeb8"
+            }
+          ],
+          "id": "4ba68d4b-b612-434e-b367-007602cc1c7e"
+        },
+        {
+          "text": "Environmental operating conditions for UAVs",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "d600417e-884b-4547-b865-ceda8f14b64e"
+            },
+            {
+              "name": "Environmental Operating Conditions",
+              "type": "Parameter",
+              "description": "The conditions under which the UAV operates.",
+              "id": "fcfa1ec6-e01b-447b-9d12-c7febb0899b0"
+            }
+          ],
+          "id": "87ef5258-f2a4-4499-8abf-ee598ca66807"
+        },
+        {
+          "text": "Wind Tolerance for UAVs",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "e56fe42e-75c5-48ff-bdc0-cf5124d5f0a0"
+            },
+            {
+              "name": "Wind Tolerance",
+              "type": "Parameter",
+              "description": "The wind speed the UAV can handle.",
+              "id": "8ec64030-2829-47fd-8dd5-8617dce5d0db"
+            }
+          ],
+          "id": "e2ef4a0e-d888-4d24-82ed-2e9e73909980"
+        },
+        {
+          "text": "Fog and Visibility constraints for UAVs",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "Concept",
+              "id": "16e48d9c-d4dd-4b6d-b2a3-2280ce2ebd35"
+            },
+            {
+              "name": "Fog",
+              "type": "Parameter",
+              "id": "edc7ffca-01ba-45d1-9ae8-0b9553cd31b9"
+            },
+            {
+              "name": "Visibility",
+              "type": "Parameter",
+              "id": "7a1d87fc-18f7-423d-9e39-60155126c896"
+            }
+          ],
+          "id": "69588e5c-1885-4d1e-af02-04a0f754370c"
+        },
+        {
+          "text": "are rate-limited to ensure platform stability.",
+          "score": 0.0,
+          "entities": [],
+          "id": "dd95944b-2402-4bf9-8220-5eaba874195b"
+        },
+        {
+          "text": "Environmental Operating Conditions",
+          "score": 0.0,
+          "entities": [
+            {
+              "name": "Wind Tolerance",
+              "type": "Environmental Parameter",
+              "description": "Nominal flight operations are tested up to 8 m/s wind speeds.",
+              "id": "be049b29-6be7-4a94-aaf0-bbbbec86b974"
+            },
+            {
+              "name": "Fog and Visibility",
+              "type": "Environmental Parameter",
+              "description": "UAV-based navigation and data capture require minimum visibility of 30 meters.",
+              "id": "5991e45c-4e74-4364-b460-906368979c28"
+            },
+            {
+              "name": "Temperature Limits",
+              "type": "Environmental Parameter",
+              "description": "Flight plans consider environmental conditions in accordance with manufacturer operating ranges, particularly for the Matrice 210 RTK and Phantom 4 Multispectral that are now being used.",
+              "id": "272f7012-926d-4939-b94b-07d6f8be8a14"
+            },
+            {
+              "name": "Simulation-Based Validation",
+              "type": "Validation Method",
+              "description": "All flight conditions will be tested in the Isaac Sim-based Omniverse simulation environment, which replicates the physical structure of Quinta do Crasto.",
+              "id": "16c69976-2a79-4c2d-ab1f-f9a8e0942d3f"
+            }
+          ],
+          "id": "9bcacb29-cd9b-4698-9a36-d7186a6d3209"
+        },
+        {
+          "text": "This testbed supports rapid iteration and risk-free evaluation of flight logic",
+          "score": 0.0,
+          "entities": [],
+          "id": "c24ec16b-5f09-4465-aa3f-770d49bbeaec"
+        },
+        {
+          "text": "The defined flight conditions and constraints in this section also support the configuration of the Long-Term Adaptation (LTA) component described in Section 3.2.",
+          "score": 0.0,
+          "entities": [
+            {
+              "name": "Long-Term Adaptation (LTA)",
+              "type": "Component",
+              "description": "Not yet incorporated in the current early prototype.",
+              "id": "a0ff0022-5b80-4b54-9529-27be7d8832c5"
+            }
+          ],
+          "id": "78108b21-cf3c-47da-ab9f-9ffa658d5e2f"
+        },
+        {
+          "text": "Georeferencing critical locations for UAV-based monitoring",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "critical locations",
+              "type": "Location",
+              "description": "Locations identified as crucial for UAV-based monitoring.",
+              "key_score": 0.9,
+              "id": "a66c7473-91db-4801-ac3b-7f4a97b9ab6f"
+            },
+            {
+              "name": "UAVs",
+              "type": "Agent",
+              "description": "Unmanned Aerial Vehicles used for monitoring.",
+              "key_score": 0.7,
+              "id": "72e2b1ab-7abe-4add-a23e-61301f9e9c12"
+            },
+            {
+              "name": "central monitoring and mission control system",
+              "type": "System",
+              "description": "A system responsible for managing UAV missions.",
+              "key_score": 0.6,
+              "id": "8354eb6e-acbd-43cc-a07d-230daf2bd032"
+            },
+            {
+              "name": "GPS coordinates",
+              "type": "Coordinate",
+              "description": "Precise geographical locations of critical regions.",
+              "key_score": 0.8,
+              "id": "b8c63e34-22ab-4642-bb5e-483533328d06"
+            },
+            {
+              "name": "spatial database",
+              "type": "Database",
+              "description": "A database used to store spatial information.",
+              "key_score": 0.7,
+              "id": "0fd2831e-9168-4c76-9909-890d038a1115"
+            },
+            {
+              "name": "flight planning tools",
+              "type": "Tool",
+              "description": "Tools used for planning UAV missions.",
+              "key_score": 0.6,
+              "id": "3f5916be-e9f9-4340-af84-f5fcdf675499"
+            },
+            {
+              "name": "Digital Surface Models (DSM)",
+              "type": "Model",
+              "description": "Models derived from photogrammetry used to associate elevation profiles with each location.",
+              "key_score": 0.8,
+              "id": "a769218e-8337-4151-8477-0a1007fe5bb5"
+            },
+            {
+              "name": "Digital Terrain Models (DTM)",
+              "type": "Model",
+              "description": "Models used in conjunction with DSM for terrain analysis.",
+              "key_score": 0.7,
+              "id": "853e4bb9-e27d-458b-b587-c49c9d1f5d43"
+            }
+          ],
+          "id": "9c1b18c9-85d5-4f7a-8814-112325cd7089"
+        },
+        {
+          "text": "Adapting UAV missions to Quinta do Crasto's topography",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV missions",
+              "type": "Mission",
+              "description": "Missions planned for UAVs.",
+              "key_score": 0.9,
+              "id": "ea759720-9d3a-4aff-8037-a32dec7e6041"
+            },
+            {
+              "name": "Quinta do Crasto",
+              "type": "Location",
+              "description": "A vineyard with steep hillsides and substantial elevation differences.",
+              "key_score": 0.8,
+              "id": "ef5e9efa-31c0-4f5e-a6fc-b670a64653c0"
+            },
+            {
+              "name": "terrain-following logic",
+              "type": "Logic",
+              "description": "Logic used for precise altitude modulation on steep terrain.",
+              "key_score": 0.7,
+              "id": "9db4d2b5-ac38-4165-95e6-17d79f37c14e"
+            },
+            {
+              "name": "UAV stability",
+              "type": "Condition",
+              "description": "Stability of UAVs during flight.",
+              "key_score": 0.6,
+              "id": "59edf9fe-238f-4fbb-b610-1d55449d7290"
+            },
+            {
+              "name": "sensor accuracy",
+              "type": "Condition",
+              "description": "Accuracy of sensors during flight.",
+              "key_score": 0.7,
+              "id": "3ed0b5e5-078a-440b-9c6d-f2b93821f28f"
+            },
+            {
+              "name": "data quality",
+              "type": "Quality",
+              "description": "Quality of data collected by UAVs.",
+              "key_score": 0.6,
+              "id": "93844d3d-a5f3-4fad-9b25-645ff3eec36d"
+            },
+            {
+              "name": "flight paths",
+              "type": "Path",
+              "description": "Paths followed by UAVs during missions.",
+              "key_score": 0.8,
+              "id": "d1a0a854-a72b-4ab9-9bac-383b140d8b10"
+            }
+          ],
+          "id": "ff42e169-edef-4a4c-9433-5270f54b3762"
+        },
+        {
+          "text": "Enabling accurate leaf-level image capture",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "leaf-level image capture",
+              "type": "Task",
+              "description": "Capturing images of leaves for tasks such as grape variety identification or disease detection.",
+              "key_score": 0.9,
+              "id": "a8c68235-4d59-4b6c-9907-e2732fa39e3c"
+            },
+            {
+              "name": "UAVs",
+              "type": "Agent",
+              "description": "Unmanned Aerial Vehicles used for image capture.",
+              "key_score": 0.7,
+              "id": "1178e30d-fe23-4ca1-af49-1e1f5c158f08"
+            },
+            {
+              "name": "vines",
+              "type": "Plant",
+              "description": "Vineyards where images are captured.",
+              "key_score": 0.6,
+              "id": "72443d6f-d2d5-4005-a9df-117b2746cd0e"
+            },
+            {
+              "name": "image resolution",
+              "type": "Quality",
+              "description": "Resolution of images captured by UAVs.",
+              "key_score": 0.8,
+              "id": "bf809707-86aa-49e9-ac42-46e181bdecbe"
+            },
+            {
+              "name": "perspective",
+              "type": "Attribute",
+              "description": "Perspective of images captured by UAVs.",
+              "key_score": 0.7,
+              "id": "ee78eeff-1317-4620-800c-dbf581982f5a"
+            },
+            {
+              "name": "AI-based segmentation and analysis",
+              "type": "Process",
+              "description": "Segmenting and analyzing images using AI.",
+              "key_score": 0.6,
+              "id": "97d943fe-ea76-41f0-8ec9-44572993c7ba"
+            }
+          ],
+          "id": "2a5ab16c-9a46-4e61-bad7-2155472eb6fe"
+        },
+        {
+          "text": "UAV Path Planning for High-Resolution Visual Tasks",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAVs",
+              "type": "Unmanned Aerial Vehicle",
+              "description": "Used for tasks such as grape variety identification or disease detection.",
+              "key_score": 0.8,
+              "id": "b67cd852-2763-45bd-ae22-4876fb8858db"
+            },
+            {
+              "name": "Grape Variety Identification",
+              "type": "Task",
+              "description": "Identifying the type of grapes.",
+              "key_score": 0.6,
+              "id": "ce54ad3e-eb61-4894-a42c-93e21f051c96"
+            },
+            {
+              "name": "Disease Detection",
+              "type": "Task",
+              "description": "Detecting diseases in grapes.",
+              "key_score": 0.7,
+              "id": "2031d1c2-a109-4c9a-be64-07edf92b88c4"
+            },
+            {
+              "name": "Image Resolution",
+              "type": "Attribute",
+              "description": "The clarity of the captured images.",
+              "key_score": 0.5,
+              "id": "1468d744-b032-440d-be55-03e24bfe755f"
+            },
+            {
+              "name": "Perspective",
+              "type": "Attribute",
+              "description": "The angle from which the images are captured.",
+              "key_score": 0.4,
+              "id": "9400439b-431f-46fd-ba74-c3030ccd24bc"
+            },
+            {
+              "name": "Terrain-Following Logic",
+              "type": "Technology",
+              "description": "Used for maintaining a stable and repeatable low-altitude flight over vines.",
+              "key_score": 0.6,
+              "id": "1b4e255c-6fdd-4b5c-8425-3d900f244fc8"
+            },
+            {
+              "name": "Steep Terrain",
+              "type": "Environmental Condition",
+              "description": "Requires precise altitude modulation due to microclimatic variations and airflow disruption.",
+              "key_score": 0.5,
+              "id": "c70bcc61-4f8e-4690-aeea-e339c6c58a0d"
+            },
+            {
+              "name": "Orthomosaic Generation",
+              "type": "Process",
+              "description": "Creating a mosaic of orthorectified images.",
+              "key_score": 0.4,
+              "id": "fe36a8c6-db72-4c02-9f4f-a1d6a4cc3f44"
+            },
+            {
+              "name": "NDVI Mapping",
+              "type": "Process",
+              "description": "Mapping using Normalized Difference Vegetation Index.",
+              "key_score": 0.3,
+              "id": "435a3a24-1822-4f68-b77a-627914d7a09d"
+            },
+            {
+              "name": "Terrain-Aware Flight Paths",
+              "type": "Technology",
+              "description": "Maintaining proper image overlap and consistent ground sampling distance (GSD) over sloped plots.",
+              "key_score": 0.7,
+              "id": "c220b7ff-de9c-4761-96e2-2e9110ece834"
+            },
+            {
+              "name": "Quinta do Crasto's Vineyard Management Interface",
+              "type": "Software",
+              "description": "Includes a CSV-based registry of each vine's location, ID, and variety.",
+              "key_score": 0.6,
+              "id": "11dcdea1-f15d-4d36-9ad8-7a8ddb3a62ad"
+            }
+          ],
+          "id": "130872c1-f962-4789-951f-a34617fea7ab"
+        },
+        {
+          "text": "Sliding Work Sharing Management Component",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "Sliding Work Sharing (SWS) Management",
+              "type": "Software Module",
+              "description": "A generic software module that can be customized to different pilot scenarios.",
+              "key_score": 0.4,
+              "id": "88c8b4be-8da9-4150-acd4-bc431fb8079c"
+            },
+            {
+              "name": "Configuration Files",
+              "type": "Resource",
+              "description": "Used for customizing the SWS Management component.",
+              "key_score": 0.2,
+              "id": "5699be04-1451-4200-b303-842ef2b511ff"
+            }
+          ],
+          "id": "f0e9c3c3-fc5b-429a-b10e-dc3e71f4515b"
+        },
+        {
+          "text": "Sliding Work Sharing Management component for grape transport decision",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "Sliding Work Sharing (SWS) Management component",
+              "type": "Software Module",
+              "description": "A generic software module that can be customized for different pilot scenarios via configuration files.",
+              "id": "a603ad21-5c8d-4484-a20e-16a145c08e34"
+            },
+            {
+              "name": "EP architecture",
+              "type": "System Architecture",
+              "description": "Not specified in the input",
+              "id": "8edc4999-8e41-40be-bf55-36c828fbfae7"
+            },
+            {
+              "name": "UC-AGR-3: Transport of grapes",
+              "type": "Use Case",
+              "description": "Transport of grapes in a steep-slope vineyard during the harvest season.",
+              "id": "1a586c47-28f7-4afc-b7a8-858f341a77e2"
+            },
+            {
+              "name": "workers",
+              "type": "Human Workers",
+              "description": "Harvesting grapes and putting them into boxes.",
+              "id": "abdcec85-18a6-4649-8222-804c72fdd7ef"
+            },
+            {
+              "name": "transport drone",
+              "type": "Automated Transport Device",
+              "description": "Assists in carrying full boxes to a central collection point.",
+              "id": "135a7316-32ec-4c0c-bab0-0f0a2d50ee6e"
+            },
+            {
+              "name": "central collection point",
+              "type": "Collection Point",
+              "description": "Location where full boxes are collected.",
+              "id": "807e2e3d-f5c2-4b2f-bc52-5c07bcac2c49"
+            },
+            {
+              "name": "SWS Management component configuration file",
+              "type": "Configuration File",
+              "description": "Defines input parameters, potential outputs, membership functions for fuzzification and defuzzification as well as fuzzy decision rules.",
+              "id": "cc860b0a-ed12-4f1a-8587-158c21fee1d9"
+            },
+            {
+              "name": "fuzzy logic control (FCL) file",
+              "type": "Configuration File",
+              "description": "A specific type of configuration file used in the SWS Management component.",
+              "id": "880775d2-0995-472b-a7d6-7ef3f0e37948"
+            },
+            {
+              "name": "waiting time for the drone",
+              "type": "Time Duration",
+              "description": "Considered variable in the decision-making process.",
+              "id": "1aaf09dd-611d-4744-9ed3-e505d6efecbe"
+            },
+            {
+              "name": "fatigue level of the worker",
+              "type": "Physical Condition",
+              "description": "Considered variable in the decision-making process.",
+              "id": "cd0d328a-9001-456d-b68c-54a77da622fc"
+            },
+            {
+              "name": "distance from the current location of the box to the central collection point",
+              "type": "Distance",
+              "description": "Considered variable in the decision-making process.",
+              "id": "f6993538-fefe-410d-a438-495dd5772191"
+            }
+          ],
+          "id": "596a00f7-da25-49cd-99da-d0fa344740c4"
+        },
+        {
+          "text": "Decision making rules for work sharing approach based on distance, waiting time and fatigue level",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "distanceToCentralCollectionPoint",
+              "type": "REAL",
+              "description": "Distance to the central collection point in meters",
+              "id": "66a113d5-227b-48e5-a5a2-fb0e03266ca5"
+            },
+            {
+              "name": "waitingTimeForDrone",
+              "type": "REAL",
+              "description": "Waiting time for the drone in minutes",
+              "id": "11c943ff-166a-4889-a9c0-d19514bff1d3"
+            },
+            {
+              "name": "fatigueLevelOfWorker",
+              "type": "REAL",
+              "description": "Fatigue level of the worker in percent",
+              "id": "ad0a8127-0e7b-4f09-9efb-80c3b9ee5a71"
+            },
+            {
+              "name": "suggestedWorkSharingApproach",
+              "type": "REAL",
+              "description": "Suggested work sharing approach",
+              "id": "d616defa-b127-4f7c-ab93-3209ff7d7023"
+            }
+          ],
+          "id": "44092a0a-b36a-4723-8708-4b39b6d3bf06"
+        },
+        {
+          "text": "Data storage and access for large datasets collected by drone flights",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "datasets",
+              "type": "collected_by_drone_flights",
+              "description": "Datasets collected by drone flights",
+              "id": "dfaf4b19-41da-4dc3-aae4-6f26ea0317ad"
+            },
+            {
+              "name": "Data Middleware",
+              "type": "component",
+              "description": "Component for data storage and access",
+              "id": "19f13270-718c-42ee-bce0-7882115c5911"
+            },
+            {
+              "name": "flight information",
+              "type": "data_type",
+              "description": "Flight information including the flight path",
+              "id": "e12b8790-314d-4a25-95c8-85e3f24af1eb"
+            },
+            {
+              "name": "sensors and cameras attached",
+              "type": "data_type",
+              "description": "Data collected by multiple sensors and cameras",
+              "id": "56c4383b-e87e-43eb-bd43-a2d2b87af3df"
+            }
+          ],
+          "id": "c67032c5-74f5-47f0-87a2-e1eee846d751"
+        },
+        {
+          "text": "AI4Work Services platform supports data storage and processing",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "AI4Work Services platform",
+              "type": "platform",
+              "description": "A service platform that supports data storage and processing.",
+              "id": "7c1aed1d-6ece-450a-b42a-99ebf0b5c2e3"
+            },
+            {
+              "name": "Data Middleware",
+              "type": "component",
+              "description": "An auxiliary component of the AI4Work Service Platform, dedicated at supporting the integration between data sources and AI4Work technologies.",
+              "id": "d330da74-8e1e-4d0e-b130-51873f514320"
+            }
+          ],
+          "id": "dbdbfe51-cfe3-406c-b947-797d68c25e29"
+        },
+        {
+          "text": "Data Middleware provides API for adding, discovering, and retrieving datasets",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Data Middleware",
+              "type": "component",
+              "description": "An auxiliary component of the AI4Work Service Platform, dedicated at supporting the integration between data sources and AI4Work technologies.",
+              "id": "41a56903-93ca-4115-b36d-b0d211a15b28"
+            }
+          ],
+          "id": "5da0d7d4-9775-4864-b18e-e9c77ade6ec5"
+        },
+        {
+          "text": "Data Middleware supports metadata enrichment for efficient data discovery",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "Data Middleware",
+              "type": "component",
+              "description": "An auxiliary component of the AI4Work Service Platform, dedicated at supporting the integration between data sources and AI4Work technologies.",
+              "id": "3031f508-239c-4935-8f50-2f21af9d9ed8"
+            }
+          ],
+          "id": "6579767e-f7cb-46c8-86fb-c6dc716e7d04"
+        },
+        {
+          "text": "Datasets are added through a user interface in Data Middleware",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Data Middleware",
+              "type": "component",
+              "description": "An auxiliary component of the AI4Work Service Platform, dedicated at supporting the integration between data sources and AI4Work technologies.",
+              "id": "c1596f5d-d5db-4366-8d29-ab999e3d881f"
+            }
+          ],
+          "id": "75a66fae-3a4d-4c5a-bb65-58c114b84d5c"
+        },
+        {
+          "text": "Users can navigate through the list of datasets and inspect details",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "User",
+              "type": "person",
+              "description": "An individual who interacts with the AI4Work Services platform.",
+              "id": "8460e394-41d3-4fea-b0d9-d115ff84d384"
+            }
+          ],
+          "id": "b6a336a6-ebb7-4b98-a462-43fe0b20d335"
+        },
+        {
+          "text": "Details pages show location, flight path, timeline, and file list of datasets",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Dataset",
+              "type": "data",
+              "description": "A collection of data.",
+              "id": "55fc4c17-6bb8-4622-9117-b9b3cbf82565"
+            }
+          ],
+          "id": "82223129-cd71-43e6-9ce8-a04a00a222b3"
+        },
+        {
+          "text": "Pilot Specific developments are not mentioned in the input",
+          "score": 0.0,
+          "entities": [],
+          "id": "207ef69e-e49c-446a-ab7b-160ba101aca7"
+        },
+        {
+          "text": "The dataset contains information about the drone flight path, timeline, and composing files.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "drone flight path",
+              "type": "location",
+              "description": "automatically extracted from the .MRK file within the dataset",
+              "id": "3c40a7db-92cb-4c10-95a4-074e45fe41e5"
+            },
+            {
+              "name": "timeline",
+              "type": "time interval",
+              "description": "corresponding to the collection of the dataset (i.e. time of the flight)",
+              "id": "9d3f67d9-b06c-4de5-a7b6-facb79671111"
+            },
+            {
+              "name": "files",
+              "type": "dataset components",
+              "description": "that compose the dataset",
+              "id": "220dcae2-c31f-4ba3-a478-640d48626fa0"
+            }
+          ],
+          "id": "026779f1-4551-4b2d-b3ec-609f2f91cb06"
+        },
+        {
+          "text": "The AI4Work Agriculture Pilot focuses on using UAVs to address operational challenges in steep-slope vineyards.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "AI4Work Agriculture Pilot",
+              "type": "pilot",
+              "description": "addressing the operational challenges of steep-slope vineyards",
+              "id": "ba0b0df0-40d9-45e6-9b64-54d2139d454b"
+            },
+            {
+              "name": "UAVs",
+              "type": "unmanned aerial vehicles",
+              "description": "play a central role in addressing the operational challenges",
+              "id": "0760ce72-0419-4f4a-b8e8-21d4a67e45f8"
+            }
+          ],
+          "id": "6acbed09-b3d2-4a35-b0bd-198bdb0a7ab3"
+        },
+        {
+          "text": "UAVs are being evaluated for various vineyard tasks, including crop health monitoring and grape transport.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "crop health monitoring",
+              "type": "task",
+              "description": "of vineyards",
+              "id": "c485a93a-6eee-41d7-89ff-1b25457ca853"
+            },
+            {
+              "name": "grape transport",
+              "type": "task",
+              "description": "during harvest",
+              "id": "fc565ad0-ae5d-43ff-b17b-caf11de04c75"
+            }
+          ],
+          "id": "b17d4a17-12cb-44f2-82c8-d340487efb17"
+        },
+        {
+          "text": "A heterogeneous UAV setup was adopted due to the distinct technical and operational demands of these tasks.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "heterogeneous UAV setup",
+              "type": "uav configuration",
+              "description": "adopted for vineyard tasks",
+              "id": "d05cffe0-af6e-4bdd-be86-062a6e30a39f"
+            }
+          ],
+          "id": "8af1b339-cc93-40d4-897e-693b84c9c97d"
+        },
+        {
+          "text": "Figure 32 shows an aerial view of Maria Teresa Vineyard with its sloped terraced layout and narrow row spacing.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Maria Teresa Vineyard",
+              "type": "vineyard",
+              "description": "with its sloped terraced layout and narrow row spacing",
+              "id": "6bc4adf5-1355-4e95-9255-a399f7a22f28"
+            },
+            {
+              "name": "Figure 32",
+              "type": "figure",
+              "description": "an aerial view of the vineyard",
+              "id": "93ab1c47-f0f6-4500-b4cf-8fd89e7fe809"
+            }
+          ],
+          "id": "3106c399-47e0-4127-9eef-a600bd53697d"
+        },
+        {
+          "text": "UAV platform dimensions are constrained in traditional vineyards due to narrow spacing between vines and steep terrain.",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "UAV platform",
+              "type": "technology",
+              "description": "Unmanned Aerial Vehicle (UAV) or drone used for data collection in vineyards.",
+              "id": "baafb2a8-4b5c-4605-91b9-a9abffae0ae3"
+            },
+            {
+              "name": "traditional vineyard",
+              "type": "location",
+              "description": "A vineyard with narrow spacing between vines and steep terrain.",
+              "id": "5f4aa5ce-42e3-498e-9cc1-735981d7b474"
+            }
+          ],
+          "id": "fc86d45e-005e-4a3b-b4a8-dcaff9140e1d"
+        },
+        {
+          "text": "Smaller UAVs are safer and more efficient in confined conditions of traditional vineyards.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "smaller UAV",
+              "type": "technology",
+              "description": "A smaller version of the UAV used for data collection in vineyards.",
+              "id": "fd469a88-bf8c-4095-8397-dfd962f58ae8"
+            },
+            {
+              "name": "confined conditions",
+              "type": "condition",
+              "description": "Conditions where larger UAVs may cause safety concerns, operational inefficiencies, or disruption to manual workflows.",
+              "id": "8f54f698-1e09-4ac4-898c-7f32199b9077"
+            }
+          ],
+          "id": "58ef8661-4a4e-454a-940a-51d59f95286d"
+        },
+        {
+          "text": "European regulatory framework classifies UAVs and imposes restrictions based on weight.",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "UAV",
+              "type": "technology",
+              "description": "Unmanned Aerial Vehicle (UAV) or drone.",
+              "id": "d7aa7d9d-dd6f-467d-969b-6669a6d3e73d"
+            },
+            {
+              "name": "European regulatory framework",
+              "type": "regulation",
+              "description": "The set of rules governing UAV operations in Europe.",
+              "id": "8045a048-68cb-48c8-be7d-d847dc00ad58"
+            }
+          ],
+          "id": "ba919a41-3b52-4470-a619-9a20f50a932b"
+        },
+        {
+          "text": "High-payload UAVs like the DJI FlyCart are currently unsuitable for this project due to their large physical footprint and strict certification requirements.",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "high-payload UAV",
+              "type": "technology",
+              "description": "A high-capacity UAV like the DJI FlyCart.",
+              "id": "dadc6e11-9d4e-4d8e-bdc0-dee2b867a5af"
+            },
+            {
+              "name": "DJI FlyCart",
+              "type": "product",
+              "description": "A specific model of high-payload UAV.",
+              "id": "916de0d1-0c96-467b-84db-d0b8633a1a11"
+            }
+          ],
+          "id": "17f9d1c3-3c8d-481d-8c98-09f4e6600ff7"
+        },
+        {
+          "text": "Mid-sized platforms capable of carrying 6–8 kg may become viable as regulatory conditions evolve.",
+          "score": 0.5,
+          "entities": [
+            {
+              "name": "mid-sized platform",
+              "type": "technology",
+              "description": "A mid-sized UAV capable of carrying 6–8 kg.",
+              "id": "0d417bc9-a617-4560-be2a-72168ccf52f5"
+            }
+          ],
+          "id": "f6395590-0d98-4372-8939-8f22bec21b4c"
+        },
+        {
+          "text": "AI4Work mission control and simulation framework enables safe, risk-free virtual trials prior to committing to new hardware solutions.",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "AI4Work",
+              "type": "software",
+              "description": "A mission control and simulation framework for UAVs.",
+              "id": "7075625a-dabb-4d7f-a79b-0326216aa5f1"
+            }
+          ],
+          "id": "1b13807f-915f-4d57-b8e8-d9cfa2f00293"
+        },
+        {
+          "text": "UAV Platforms Overview",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "DJI Matrice 210 Real-Time Kinematic (RTK) V1",
+              "type": "UAV",
+              "description": "Industrial-grade quadcopter for advanced imaging and load-carrying operations. Can be equipped with Micasense Altum.",
+              "key_score": 0.8,
+              "id": "7847afee-a1e5-454d-bd29-13c1db4959d5"
+            },
+            {
+              "name": "DJI Phantom 4 Multispectral",
+              "type": "UAV",
+              "description": "Lightweight UAV optimized for precise vineyard surveying and image-based classification.",
+              "key_score": 0.8,
+              "id": "75bc32d0-62a9-401a-a6ac-b3015daae694"
+            },
+            {
+              "name": "Micasense Altum",
+              "type": "Multispectral Sensor",
+              "description": "Sensor used in DJI Matrice 210 RTK V1 for advanced imaging.",
+              "key_score": 0.6,
+              "id": "7c3a82ef-a0b5-48a3-b984-b48b071ccbcd"
+            }
+          ],
+          "id": "57b8455a-a64d-40b4-9c14-5906a2e0ab46"
+        },
+        {
+          "text": "Technical Specifications Summary",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "DJI Matrice 210 Real-Time Kinematic (RTK) V1",
+              "type": "UAV",
+              "description": "Technical specifications for DJI Matrice 210 RTK V1.",
+              "key_score": 0.9,
+              "id": "f787461e-e5f0-4280-a974-2b10fe98fe2f"
+            },
+            {
+              "name": "DJI Phantom 4 Multispectral",
+              "type": "UAV",
+              "description": "Technical specifications for DJI Phantom 4 Multispectral.",
+              "key_score": 0.9,
+              "id": "07639da4-0a5b-48aa-8dcc-85fe1925e353"
+            },
+            {
+              "name": "Specification",
+              "type": "Attribute",
+              "description": "Various attributes of the UAVs such as dimensions, weight, max takeoff weight, max flight time, operating temp., real-time kinematic (RTK), max payload, multispectral, thermal imaging, vision systems, obstacle avoidance, transmission, battery.",
+              "key_score": 0.7,
+              "id": "bdf47588-a720-4414-85e2-74bf7bf6710e"
+            }
+          ],
+          "id": "c8b0ce69-288b-4e93-bcc4-f2146ccd0c10"
+        },
+        {
+          "text": "DJI Matrice 210 Real-Time Kinematic (RTK) specifications",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "type": "drone",
+              "description": "A drone with RTK module for heavier payload operations.",
+              "id": "e8d54cbb-f9cb-4f13-82a9-602135c40402"
+            },
+            {
+              "name": "7 km range via Lightbridge",
+              "type": "transmission",
+              "description": "Transmission range of DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "id": "028a82c8-8bae-4d32-8382-9a99687bc6ec"
+            },
+            {
+              "name": "OcuSync",
+              "type": "transmission",
+              "description": "Alternative transmission system",
+              "id": "196b6e3c-4386-46b5-bd0c-3471510e50e3"
+            },
+            {
+              "name": "Dual TB55 (174.6 Wh each)",
+              "type": "battery",
+              "description": "Type and capacity of batteries used by DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "id": "5d625427-32a5-454c-971b-15b6de4b2e03"
+            },
+            {
+              "name": "LiPo 4S, 89.2 Wh",
+              "type": "battery",
+              "description": "Alternative battery specification",
+              "id": "67890f68-b07b-46f5-9cd1-bf26cdac8461"
+            },
+            {
+              "name": "Up to 12 m/s",
+              "type": "wind_resistance",
+              "description": "Maximum wind resistance of DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "id": "a5375d37-e510-458a-b2bc-886588968836"
+            },
+            {
+              "name": "-20°C to 45°C",
+              "type": "temperature_range",
+              "description": "Operating temperature range of DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "id": "33ea409c-e7b2-4465-b3aa-4637ab82c8bd"
+            },
+            {
+              "name": "IP43",
+              "type": "ip_rating",
+              "description": "Ingress protection rating of DJI Matrice 210 Real-Time Kinematic (RTK)",
+              "id": "498e1bf8-22b2-4aba-92e6-693357f6bc3a"
+            }
+          ],
+          "id": "804bf3d4-66bc-49c6-a28a-554e11a6cafb"
+        },
+        {
+          "text": "DJI Phantom 4 Multispectral specifications",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "DJI Phantom 4 Multispectral",
+              "type": "drone",
+              "description": "A drone with multispectral sensor for high-resolution data capture and NDVI visualization",
+              "id": "5a51838b-aafc-430d-8d7c-b35434fda261"
+            },
+            {
+              "name": "1.57 kg",
+              "type": "max_payload",
+              "description": "Maximum payload of DJI Phantom 4 Multispectral",
+              "id": "fd9fd6cc-4d57-4bff-af24-4a35df19ac1b"
+            },
+            {
+              "name": "Fixed payload",
+              "type": "max_payload",
+              "description": "Type of payload carried by DJI Phantom 4 Multispectral",
+              "id": "e0138ec9-9da3-476e-9b49-1afd0dcd9aa8"
+            },
+            {
+              "name": "Micasense Altum (blue, green, red, red edge, NIR + thermal)",
+              "type": "sensor",
+              "description": "Multispectral sensor used by DJI Phantom 4 Multispectral",
+              "id": "27ae56ac-fb81-4156-94dd-62533e16ffd0"
+            },
+            {
+              "name": "5-band multispectral sensor (blue, green, red, red edge, NIR)",
+              "type": "sensor",
+              "description": "Alternative description of Micasense Altum sensor",
+              "id": "5496466d-ce17-4448-8c7d-f51760efdbcf"
+            },
+            {
+              "name": "Not officially specified; lower practical threshold",
+              "type": "wind_resistance",
+              "description": "Wind resistance of DJI Phantom 4 Multispectral",
+              "id": "fe5316e8-be6a-4995-a2d7-f102afee29ce"
+            },
+            {
+              "name": "0°C to 40°C",
+              "type": "temperature_range",
+              "description": "Operating temperature range of DJI Phantom 4 Multispectral",
+              "id": "4372908b-ff84-4a62-a87b-caea0e187492"
+            },
+            {
+              "name": "None",
+              "type": "ip_rating",
+              "description": "Ingress protection rating of DJI Phantom 4 Multispectral",
+              "id": "9bb1846d-77e0-4ff7-b60f-2f87c7d520d3"
+            }
+          ],
+          "id": "72433480-4bca-478b-8177-70620ba34f07"
+        },
+        {
+          "text": "Use Cases",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "UC-AGR-1",
+              "type": "use_case",
+              "description": "High-resolution data capture and NDVI visualization",
+              "id": "14072322-ad85-4fc7-a797-52ca08d1e3fa"
+            },
+            {
+              "name": "UC-AGR-2",
+              "type": "use_case",
+              "description": "High-resolution data capture and NDVI visualization",
+              "id": "c694104e-9d11-40b9-bd86-386fc1dadbf5"
+            },
+            {
+              "name": "UC-AGR-3",
+              "type": "use_case",
+              "description": "UAV-based grape transport logistics",
+              "id": "dcda7b0e-53d7-4427-bcd4-768cef5de9ba"
+            }
+          ],
+          "id": "03b52a6a-ac89-400a-b8ec-4fb4e3d65144"
+        },
+        {
+          "text": "Environmental Robustness",
+          "score": 1.0,
+          "entities": [
+            {
+              "name": "DJI Matrice 210 Real-Time Kinematic (RTK) V1",
+              "type": "drone",
+              "description": "A drone with better environmental robustness",
+              "id": "69d3c622-55ed-4ae4-83f3-c72fb291184a"
+            },
+            {
+              "name": "DJI Phantom 4 Multispectral",
+              "type": "drone",
+              "description": "A drone less suitable for wet conditions and variable weather",
+              "id": "1dff31f4-d664-4335-9a30-fb62f5a50605"
+            }
+          ],
+          "id": "53afbca0-0665-4daf-8039-4f18827183c5"
+        },
+        {
+          "text": "UAV Selection for Aerial Transport of Grapes",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "DJI Matrice 210 RTK V1",
+              "type": "UAV Platform",
+              "description": "Selected as the initial cargo platform due to its payload capacity, precision landing, weather resistance, and stability.",
+              "key_score": 0.9,
+              "id": "b252b68c-2720-4aa5-bcd9-4fc02b52f2b6"
+            },
+            {
+              "name": "UC-AGR-3",
+              "type": "Use Case",
+              "description": "Aerial transport of harvested grapes in steep, terraced vineyard terrain.",
+              "key_score": 0.8,
+              "id": "40dab4d2-82ba-4f82-803e-454633fa79c5"
+            },
+            {
+              "name": "Vineyard Terrain Testing",
+              "type": "Test Scenario",
+              "description": "Initial tests conducted at VMT to evaluate lift and descent, obstacle clearance, worker proximity, and landing accuracy.",
+              "key_score": 0.7,
+              "id": "081cbb67-763a-4937-b9b9-c293d1a7e490"
+            },
+            {
+              "name": "Pegasus Simulator",
+              "type": "Simulation Tool",
+              "description": "Used for simulating transport scenarios to minimize field-testing risk and optimize mission plans.",
+              "key_score": 0.6,
+              "id": "005907c2-1a16-4d34-a187-15ccdfaf7173"
+            }
+          ],
+          "id": "e0c9423c-bb51-4fa6-9aeb-66bcd065bec8"
+        },
+        {
+          "text": "Matrice 210's RTK-based positioning for reliable landing on uneven or sloped ground",
+          "score": 0.6,
+          "entities": [
+            {
+              "name": "Matrice 210",
+              "type": "UAV",
+              "description": "A type of drone used in the study",
+              "key_score": 0.8,
+              "id": "14edc769-2f73-46f6-9a0f-304a8893e206"
+            },
+            {
+              "name": "RTK-based positioning",
+              "type": "Technology",
+              "description": "Real-time kinematic positioning technology",
+              "key_score": 0.7,
+              "id": "d1036c19-c6f1-4ff2-ae8f-83f81f6be966"
+            }
+          ],
+          "id": "c6e7b4e1-ec42-4c10-8c3d-ae5bf67f5d9f"
+        },
+        {
+          "text": "Simulation-Driven Pre-Validation for UAV transport scenarios",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "UAV transport scenarios",
+              "type": "Task",
+              "description": "The tasks simulated for the UAV",
+              "key_score": 0.9,
+              "id": "9b24a09c-f3a4-4c9a-adda-f91bd040f1cc"
+            },
+            {
+              "name": "Pegasus simulator",
+              "type": "Software",
+              "description": "A simulation software used in the study",
+              "key_score": 0.8,
+              "id": "f0cb597f-df34-45fa-8caa-dff3f32563b7"
+            },
+            {
+              "name": "NVIDIA Isaac Sim",
+              "type": "Software",
+              "description": "Another simulation software used in the study",
+              "key_score": 0.7,
+              "id": "3c7ae5b7-40ce-4915-a09c-d9758082b165"
+            }
+          ],
+          "id": "60b380eb-b10e-4ca4-aa1a-439638200a1e"
+        },
+        {
+          "text": "Early Prototype phase of AI4Work Agriculture Pilot",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "AI4Work Agriculture Pilot",
+              "type": "Project",
+              "description": "The project under discussion",
+              "key_score": 1.0,
+              "id": "dc5a472b-49c1-40ab-a70d-ae8aeed32e60"
+            },
+            {
+              "name": "Early Prototype phase",
+              "type": "Phase",
+              "description": "A specific stage of the project",
+              "key_score": 0.9,
+              "id": "ba2e7451-2d99-4384-bce4-153d3a1bf342"
+            }
+          ],
+          "id": "9ccd1bfa-1c09-4fe9-bcd3-557b6c87b9b1"
+        },
+        {
+          "text": "Grape Variety Classification Datasets",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "Grape Variety Classification Datasets",
+              "type": "Resource",
+              "description": "Collection of preliminary datasets for grape variety classification",
+              "id": "6c25d5c4-3dca-4bfe-b8b9-1b7ca20395a3"
+            }
+          ],
+          "id": "12ca1579-fcf9-458e-8f24-1ad55208ab2a"
+        },
+        {
+          "text": "UAV Simulation Environment",
+          "score": 0.3,
+          "entities": [
+            {
+              "name": "UAV Simulation Environment",
+              "type": "System",
+              "description": "Development of a simulation environment for UAV testing using Isaac Sim, PX4, and Pegasus",
+              "id": "cb82da10-c580-4ddd-a56c-6e3650131103"
+            }
+          ],
+          "id": "fc4af3c6-9e03-4db1-99b6-92232939f226"
+        },
+        {
+          "text": "UAV Operating Parameters",
+          "score": 0.2,
+          "entities": [
+            {
+              "name": "UAV Operating Parameters",
+              "type": "Parameter",
+              "description": "Definition and validation of UAV operating parameters in constrained environments",
+              "id": "00dee87c-7cb5-4c33-82cd-c48cbfcf3bbc"
+            }
+          ],
+          "id": "7ee3535d-283b-4341-9ca8-228c758c4804"
+        },
+        {
+          "text": "Adaptive Flight Logic",
+          "score": 0.2,
+          "entities": [
+            {
+              "name": "Adaptive Flight Logic",
+              "type": "Logic",
+              "description": "Early formulation of adaptive flight logic and monitoring conditions",
+              "id": "3ad58dca-7506-444c-aae7-491cf38abcd0"
+            }
+          ],
+          "id": "cfeef75b-bae4-4481-a25b-8a95bed5ece2"
+        },
+        {
+          "text": "Sliding Work Sharing (SWS) and Long-Term Adaptation (LTA)",
+          "score": 0.1,
+          "entities": [
+            {
+              "name": "Sliding Work Sharing (SWS)",
+              "type": "Component",
+              "description": "Preliminary steps taken toward the implementation of the Sliding Work Sharing component",
+              "id": "3d8b3823-eed4-4f54-b750-96d29da745e7"
+            },
+            {
+              "name": "Long-Term Adaptation (LTA)",
+              "type": "Component",
+              "description": "Preliminary steps taken toward the implementation of the Long-Term Adaptation component",
+              "id": "7073a78c-421a-41ab-a303-31a20f63fcc6"
+            }
+          ],
+          "id": "0bace315-e324-483e-99ab-bab35ed5539d"
+        },
+        {
+          "text": "Challenges for Future Stages",
+          "score": 0.1,
+          "entities": [
+            {
+              "name": "Real-world testing of UAV cargo transport",
+              "type": "Challenge",
+              "description": "Real-world testing of UAV cargo transport remains subject to safety, regulatory, and operational feasibility",
+              "id": "018120be-b381-4548-9e0d-804efb5ec38d"
+            },
+            {
+              "name": "Context awareness models",
+              "type": "Model",
+              "description": "Context awareness models remain under development",
+              "id": "c8beffb9-403e-48df-b444-fa8db6047f0e"
+            },
+            {
+              "name": "Adaptation of AI4Work's mission control and planning architecture",
+              "type": "Architecture",
+              "description": "The adaptation of AI4Work's mission control and planning architecture to constrained agricultural terrain requires further calibration and human-centred testing",
+              "id": "9f844d8e-5f71-42b1-b397-7577be6660c3"
+            }
+          ],
+          "id": "8f4afc12-1de9-426c-8e55-5fb0aa684383"
+        },
+        {
+          "text": "Future Work",
+          "score": 0.1,
+          "entities": [
+            {
+              "name": "Expansion of AI classification models",
+              "type": "Model",
+              "description": "Expansion of AI classification models for grape variety identification",
+              "id": "61685fb5-a001-4c05-b0af-8710d87cfa5b"
+            },
+            {
+              "name": "Integration of physiological monitoring data and spatial information",
+              "type": "Data Integration",
+              "description": "Integration of physiological monitoring data and spatial information into worker-aware task planning",
+              "id": "c763ba0e-879b-40e5-9458-e8b43a6a11a4"
+            },
+            {
+              "name": "Dynamic UAV scheduling",
+              "type": "Scheduling",
+              "description": "Implementation of dynamic UAV scheduling informed by LTA outputs",
+              "id": "f4df4869-70b7-4c15-b8dd-1aa46f821ccc"
+            },
+            {
+              "name": "Sliding Work Sharing mechanisms",
+              "type": "Mechanism",
+              "description": "Progressive rollout of Sliding Work Sharing mechanisms",
+              "id": "d4abd2c1-219a-4cb8-b35e-cb20a0d10e09"
+            }
+          ],
+          "id": "5393d57c-563f-4a4e-975a-5f84335f8ab5"
+        },
+        {
+          "text": "AI-assisted vineyard operations",
+          "score": 0.9,
+          "entities": [
+            {
+              "name": "AI-assisted vineyard operations",
+              "type": "Concept",
+              "description": "The use of AI in vineyard management for tasks such as grape variety identification, physiological monitoring, task planning, UAV scheduling, and Sliding Work Sharing.",
+              "id": "d4119db9-5c82-4bd0-b138-a3c86cb909b5"
+            },
+            {
+              "name": "grape variety identification",
+              "type": "Task",
+              "description": "Identifying the type of grapes using AI-assisted methods.",
+              "id": "fc1e0415-9972-4c7c-892e-0bfb4836756f"
+            },
+            {
+              "name": "UC-AGR-1",
+              "type": "Technology",
+              "description": "AI technology for enhancing grape variety identification.",
+              "id": "4b10abd0-cd97-4638-a516-ab1e2e334efb"
+            }
+          ],
+          "id": "4b08d7be-b5e6-4487-a52f-99956ba0c520"
+        },
+        {
+          "text": "terrain-aware monitoring",
+          "score": 0.8,
+          "entities": [
+            {
+              "name": "terrain-aware monitoring",
+              "type": "Concept",
+              "description": "Monitoring vineyards in challenging terrains using AI and drones.",
+              "id": "e0e4addd-510f-4221-b68b-4d6beff18c28"
+            },
+            {
+              "name": "UC-AGR-2",
+              "type": "Technology",
+              "description": "AI technology for terrain-aware monitoring.",
+              "id": "529fd8e9-9077-4c9f-9b9f-e1bb14a0695c"
+            }
+          ],
+          "id": "d4a4a6a3-2496-4664-be09-1f29f288d0ab"
+        },
+        {
+          "text": "drone-assisted grape transport",
+          "score": 0.7,
+          "entities": [
+            {
+              "name": "drone-assisted grape transport",
+              "type": "Concept",
+              "description": "Using drones for transporting grapes in vineyards.",
+              "id": "06fb9b74-4168-4cd8-ba61-3e66e36e25e9"
+            },
+            {
+              "name": "UC-AGR-3",
+              "type": "Technology",
+              "description": "AI technology for drone-assisted grape transport.",
+              "id": "04cf5bb0-70ea-4329-8a54-f20e2234f438"
+            }
+          ],
+          "id": "abca9d78-bac9-4965-970d-b60d0b9384f6"
+        }
+      ]
+    }
+  ]
+}

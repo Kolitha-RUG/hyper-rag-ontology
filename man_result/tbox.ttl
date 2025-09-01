@@ -1,0 +1,47 @@
+@prefix : <http://example.org/onto#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:AI4Work_components a owl:Class ; rdfs:label "AI4Work components" .
+:agility a owl:Class ; rdfs:label "agility" .
+:analysis_results a owl:Class ; rdfs:label "analysis results" .
+:co_creation_activities a owl:Class ; rdfs:label "co-creation activities" .
+:coordination a owl:Class ; rdfs:label "coordination" .
+:focus_groups a owl:Class ; rdfs:label "focus groups" .
+:follow_up_co_creation_activities a owl:Class ; rdfs:label "follow-up co-creation activities" .
+:guidelines_for_AI4Work_components_implementation a owl:Class ; rdfs:label "guidelines for AI4Work components' implementation" .
+:interviews a owl:Class ; rdfs:label "interviews" .
+:mixed_method_approach a owl:Class ; rdfs:label "mixed-method approach" .
+:organisational_level_evaluation a owl:Class ; rdfs:label "organisational level evaluation" .
+:pilot_applications a owl:Class ; rdfs:label "pilot applications" .
+:questionnaires a owl:Class ; rdfs:label "questionnaires" .
+:statistical_methods a owl:Class ; rdfs:label "statistical methods" .
+:surveys a owl:Class ; rdfs:label "surveys" .
+:team_collaboration a owl:Class ; rdfs:label "team collaboration" .
+:wearables a owl:Class ; rdfs:label "wearables" .
+:well_being a owl:Class ; rdfs:label "well-being" .
+
+:Cameras a owl:Class ; rdfs:label "Cameras" .
+:Detectors a owl:Class ; rdfs:label "Detectors" .
+:Electric_actuators a owl:Class ; rdfs:label "Electric actuators" .
+:Electrical_components a owl:Class ; rdfs:label "Electrical components" .
+:HMI_software a owl:Class ; rdfs:label "HMI software" .
+:Human_machine_interface_HMI a owl:Class ; rdfs:label "Human machine interface (HMI)" .
+:Industrial_PC a owl:Class ; rdfs:label "Industrial PC" .
+:Laser_meters a owl:Class ; rdfs:label "Laser meters" .
+:Machine_PLC_programmable_logic_controller a owl:Class ; rdfs:label "Machine PLC (programmable logic controller)" .
+:Mechanical_components a owl:Class ; rdfs:label "Mechanical components" .
+:Motion_drives a owl:Class ; rdfs:label "Motion drives" .
+:Optical_sensors a owl:Class ; rdfs:label "Optical sensors" .
+:Pneumatic_gripping_systems a owl:Class ; rdfs:label "Pneumatic gripping systems" .
+:Pressure_transducers a owl:Class ; rdfs:label "Pressure transducers" .
+:Software_components a owl:Class ; rdfs:label "Software components" .
+
+:HMI_data a owl:Class ; rdfs:label "HMI data" .
+:PLC_data a owl:Class ; rdfs:label "PLC data" .
+:Production_orders a owl:Class ; rdfs:label "Production orders" .
+:Real_time_values_of_motor_currents_or_pressure_levels a owl:Class ; rdfs:label "Real-time values of motor currents or pressure levels" .
+:User_s_interactions a owl:Class ; rdfs:label "User's interactions" .
+
+:Industry_5_0_paradigm a owl:Class ; rdfs:label "Industry 5.0 paradigm" .
+:data_connection a owl:Class ; rdfs:label "data connection" .

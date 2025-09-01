@@ -1,0 +1,41 @@
+proposed,label
+http://example.org/onto#AI4Work_components,AI4Work components
+http://example.org/onto#well_being,well-being
+http://example.org/onto#organisational_level_evaluation,organisational level evaluation
+http://example.org/onto#team_collaboration,team collaboration
+http://example.org/onto#coordination,coordination
+http://example.org/onto#agility,agility
+http://example.org/onto#mixed_method_approach,mixed-method approach
+http://example.org/onto#surveys,surveys
+http://example.org/onto#questionnaires,questionnaires
+http://example.org/onto#wearables,wearables
+http://example.org/onto#interviews,interviews
+http://example.org/onto#focus_groups,focus groups
+http://example.org/onto#co_creation_activities,co-creation activities
+http://example.org/onto#statistical_methods,statistical methods
+http://example.org/onto#follow_up_co_creation_activities,follow-up co-creation activities
+http://example.org/onto#analysis_results,analysis results
+http://example.org/onto#pilot_applications,pilot applications
+http://example.org/onto#guidelines_for_AI4Work_components_implementation,guidelines for AI4Work components' implementation
+http://example.org/onto#Industry_5_0_paradigm,Industry 5.0 paradigm
+http://example.org/onto#data_connection,data connection
+http://example.org/onto#PLC_data,PLC data
+http://example.org/onto#HMI_data,HMI data
+http://example.org/onto#User_s_interactions,User's interactions
+http://example.org/onto#Production_orders,Production orders
+http://example.org/onto#Real_time_values_of_motor_currents_or_pressure_levels,Real-time values of motor currents or pressure levels
+http://example.org/onto#Mechanical_components,Mechanical components
+http://example.org/onto#Electrical_components,Electrical components
+http://example.org/onto#Software_components,Software components
+http://example.org/onto#Machine_PLC_programmable_logic_controller,Machine PLC (programmable logic controller)
+http://example.org/onto#Electric_actuators,Electric actuators
+http://example.org/onto#Motion_drives,Motion drives
+http://example.org/onto#Optical_sensors,Optical sensors
+http://example.org/onto#Detectors,Detectors
+http://example.org/onto#Laser_meters,Laser meters
+http://example.org/onto#Cameras,Cameras
+http://example.org/onto#Pneumatic_gripping_systems,Pneumatic gripping systems
+http://example.org/onto#Pressure_transducers,Pressure transducers
+http://example.org/onto#Human_machine_interface_HMI,Human machine interface (HMI)
+http://example.org/onto#Industrial_PC,Industrial PC
+http://example.org/onto#HMI_software,HMI software
